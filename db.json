@@ -1,9 +1,94 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
+  "productos": [
+    {
+      "id": 1,
+      "nombre": "Pedidos personalizados",
+      "descripcion": "Pedi el tuyo ahora!",
+      "precio": 100,
+      "imagen": "./assets/img/productos/personalizado.jpeg",
+      "categoria": "Personalizado",
+      "cantidad": 10,
+      "estado": true,
+      "destacado": true
+    },
+    {
+      "id": 2,
+      "nombre": "Tarritos",
+      "descripcion": "Tarros de totoro",
+      "precio": 200,
+      "imagen": "./assets/img/productos/tarritos.jpeg",
+      "categoria": "Tarro",
+      "cantidad": 20,
+      "estado": true,
+      "destacado": false
+    },
+    {
+      "id": 3,
+      "nombre": "Producto 3",
+      "descripcion": "This is product 3",
+      "precio": 300,
+      "imagen": "image3.jpg",
+      "categoria": "Tarro",
+      "cantidad": 30,
+      "estado": true,
+      "destacado": false
+    },
+    {
+      "id": 4,
+      "nombre": "Taza Calabaza",
+      "descripcion": "This is product 4",
+      "precio": 400,
+      "imagen": "image4.jpg",
+      "categoria": "Taza",
+      "cantidad": 40,
+      "estado": true,
+      "destacado": false
+    },
+    {
+      "id": 5,
+      "nombre": "Producto 5",
+      "descripcion": "This is product 5",
+      "precio": 500,
+      "imagen": "image5.jpg",
+      "categoria": "Category 5",
+      "cantidad": 50,
+      "estado": true,
+      "destacado": false
+    },
+    {
+      "id": 6,
+      "nombre": "Producto 6",
+      "descripcion": "This is product 6",
+      "precio": 600,
+      "imagen": "image6.jpg",
+      "categoria": "Category 6",
+      "cantidad": 60,
+      "estado": true,
+      "destacado": false
+    },
+    {
+      "id": 7,
+      "nombre": "Producto 7",
+      "descripcion": "This is product 7",
+      "precio": 700,
+      "imagen": "image7.jpg",
+      "categoria": "Category 7",
+      "cantidad": 70,
+      "estado": true,
+      "destacado": false
+    },
+    {
+      "id": 8,
+      "nombre": "Bowl Animalitos",
+      "descripcion": "Bowl de animalitos perfecto para tu desayuno",
+      "precio": 800,
+      "imagen": "./assets/img/productos/bowlAnimal.jpeg",
+      "categoria": "Bowl",
+      "cantidad": 1,
+      "estado": true,
+      "destacado": false
+    }
+
+    
+  ]
 }
