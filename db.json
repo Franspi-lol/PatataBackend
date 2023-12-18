@@ -5,7 +5,7 @@
       "nombre": "Pedidos personalizados",
       "descripcion": "Pedi el tuyo ahora!",
       "precio": 100,
-      "imagen": "./assets/img/productos/personalizado.jpeg",
+      "imagen": "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/personalizado.jpeg",
       "categoria": "Personalizado",
       "cantidad": 10,
       "estado": true,
