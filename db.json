@@ -36,11 +36,11 @@
     {
       "id": 4,
       "nombre": "Taza Calabaza",
-      "descripcion": "This is product 4",
-      "precio": 400,
-      "imagen": "image4.jpg",
+      "descripcion": "Tazas en forma de calabaza con o sin cara tematica de Halloween",
+      "precio": 3000,
+      "imagen": "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/calabaza.jpeg",
       "categoria": "Taza",
-      "cantidad": 40,
+      "cantidad": 3,
       "estado": true,
       "destacado": false
     },
