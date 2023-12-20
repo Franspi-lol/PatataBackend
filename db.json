@@ -3,7 +3,15 @@
     {
       "id": 1,
       "nombre": "Pedidos personalizados",
-      "descripcion": "Pedi el tuyo ahora!",
+      "descripcion": "¿Buscas la pieza perfecta que complemente tu hogar y refleje tu estilo único? ¡No busques más! Presentamos nuestra extraordinaria pieza de cerámica personalizada, diseñada exclusivamente para ti.
+
+Características Especiales:
+
+Diseño Único y Exclusivo: Creada con pasión y cuidado, esta pieza de cerámica es única en su clase. Nuestro talentoso ceramista ha dado vida a tu visión, convirtiéndola en una obra maestra única que no encontrarás en ningún otro lugar.
+
+Personalización a tu Gusto: Desde la forma hasta los detalles finales, cada aspecto de esta pieza ha sido diseñado según tus preferencias. Tu estilo, tus colores, ¡esta pieza de cerámica cuenta tu historia de una manera visualmente impresionante!
+
+Calidad Artesanal Duradera: Fabricada con los mejores materiales y con una atención meticulosa al detalle, esta pieza no solo es hermosa, sino también resistente y duradera. Será el centro de atención en tu hogar durante años.",
       "precio": 100,
       "imagen": "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/personalizado.jpeg",
       "categoria": "Personalizado",
