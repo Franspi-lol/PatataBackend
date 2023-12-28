@@ -13,104 +13,38 @@
     },
     {
       "id": 2,
-      "nombre": "Tarritos",
-      "descripcion": "Tarros de totoro",
-      "precio": 200,
-      "imagen": "./assets/img/productos/tarritos.jpeg",
-      "categoria": "Tarro",
-      "cantidad": 20,
+      "nombre": "Taza Niki 'Good News'",
+      "descripcion": "Taza perfecta para el desayuno y la merienda. Tiene una falla estética en el esmalte, está no impide su uso, ni su calidad.",
+      "precio": 4000,
+      "imagen": "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/maceta.jpeg",
+      "categoria": "Tazas",
+      "cantidad": 1,
       "estado": true,
       "destacado": false
     },
     {
       "id": 3,
-      "nombre": "Cenicero Good Vibes",
-      "descripcion": "This is product 3",
-      "precio": 300,
-      "imagen": "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/cenicero.jpeg",
-      "categoria": "Ceniceros",
-      "cantidad": 30,
+      "nombre": "Taza Niki 'Cherry classic'",
+      "descripcion": "Taza perfecta para el desayuno y la merienda.",
+      "precio": 5000,
+      "imagen": "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/plato.jpeg",
+      "categoria": "Tazas",
+      "cantidad": 1,
       "estado": true,
       "destacado": false
     },
     {
       "id": 4,
-      "nombre": "Taza Calabaza",
-      "descripcion": "Tazas en forma de calabaza con o sin cara tematica de Halloween",
-      "precio": 3000,
-      "imagen": "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/calabaza.jpeg",
-      "categoria": "Taza",
-      "cantidad": 3,
-      "estado": true,
-      "destacado": false
-    },
-    {
-      "id": 5,
-      "nombre": "Mate Van Gogh",
-      "descripcion": "Mate inspirado en la noche estrellada",
-      "precio": 500,
-      "imagen": "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/mateEstrella.jpeg",
-      "categoria": "Mates",
+      "nombre": "Pocillo Winnie",
+      "descripcion": "Taza blanca y negra, tamaño pocillo, perfecta para un Espresso.",
+      "precio": 4500,
+      "imagen": "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/taza.jpeg",
+      "categoria": "Tazas",
       "cantidad": 1,
       "estado": true,
       "destacado": false
     },
-    {
-      "id": 6,
-      "nombre": "Mate Totoro",
-      "descripcion": "Mate inspirado en 'Mi vecino Totoro'",
-      "precio": 600,
-      "imagen": "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/mateTotoro.jpeg",
-      "categoria": "Mates",
-      "cantidad": 60,
-      "estado": true,
-      "destacado": false
-    },
-    {
-      "id": 7,
-      "nombre": "Ovilleros Animales",
-      "descripcion": "Ovilleros",
-      "precio": 700,
-      "imagen": "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/ovilleros.jpeg",
-      "categoria": "Ovilleros",
-      "cantidad": 1,
-      "estado": true,
-      "destacado": false
-    },
-    {
-      "id": 8,
-      "nombre": "Bowl Animalitos",
-      "descripcion": "Bowl de animalitos perfecto para tu desayuno",
-      "precio": 800,
-      "imagen": "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/bowlAnimal.jpeg",
-      "categoria": "Bowl",
-      "cantidad": 1,
-      "estado": true,
-      "destacado": false
-    },
-    {
-      "id": 9,
-      "nombre": "Winnie Better Days",
-      "descripcion": "Tacita Winnie",
-      "precio": 800,
-      "imagen": "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/winnieBetter.jpeg",
-      "categoria": "Taza",
-      "cantidad": 1,
-      "estado": true,
-      "destacado": false
-    },
-    {
-      "id": 10,
-      "nombre": "Winnie Good Vibes",
-      "descripcion": "Tacita Winnie",
-      "precio": 800,
-      "imagen": "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/winnieGood.jpeg",
-      "categoria": "Taza",
-      "cantidad": 1,
-      "estado": true,
-      "destacado": false
-    }
-
+    
     
   ]
 }
