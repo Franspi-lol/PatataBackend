@@ -351,6 +351,28 @@
       "cantidad": 1,
       "estado": true,
       "destacado": false
+    },
+    {
+      "id": 33,
+      "nombre": "Cenicero 'Retro'",
+      "descripcion": "Cenicero de cerámica, perfecto para los amantes de lo retro y de fumar.",
+      "precio": 4500,
+      "imagen": ["https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%2016/1/ceniceroretro2.jpg", "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%2016/1/ceniceroretro.jpg"],
+      "categoria": "Ceniceros",
+      "cantidad": 1,
+      "estado": true,
+      "destacado": false
+    },
+    {
+      "id": 34,
+      "nombre": "Cenicero 'Fuck Off'",
+      "descripcion": "Cenicero de cerámica, pintado a mano, para los que disfrutan el arte de fumar sin que les importe lo que digan los demas.",
+      "precio": 4500,
+      "imagen":["https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%2016/1/cenicerofuck.jpg", "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%2016/1/ceniceroFuck.jpg"],
+      "categoria":"Ceniceros",,
+      "cantidad":1,
+      "estado":true,
+      "destacado":false
     }
     
 
