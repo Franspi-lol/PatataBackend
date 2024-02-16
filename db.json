@@ -384,8 +384,41 @@
       "cantidad":0,
       "estado":false,
       "destacado":false
+    },
+    {
+      "id": 36,
+      "nombre": "Taza 'Pato la vida'",
+      "descripcion": "Taza en forma de pato, esencial para tus desayunos.",
+      "precio": 5000,
+      "imagen":["https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%2016/2/pato1.jpeg", "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%2016/2/pato2.jpeg"],
+      "categoria":"Tazas",
+      "cantidad":1,
+      "estado":true,
+      "destacado":false
+    },
+    {
+      "id": 37,
+      "nombre": "Mini bowl 'Avatar'",
+      "descripcion": "Mini bowl pintado a mano, con el diseño Appa, perfecto para los amantes de Avatar.",
+      "precio": 4500,
+      "imagen":["https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%2016/2/avatar1.jpeg", "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%2016/2/avatar2.jpeg"],
+      "categoria":"Bowls",
+      "cantidad":1,
+      "estado":true,
+      "destacado":false
+
+    },
+    {
+      "id": 38,
+      "nombre": "Alhajero 'Bunny'",
+      "descripcion": "Alhajero pintado a mano, con el diseño de un conejo, perfecto para guardar tus alhajas.",
+      "precio": 2500,
+      "imagen":["https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%2016/2/conejo1.jpeg", "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%2016/2/conejo2.jpeg"],
+      "categoria":"Bowls",
+      "cantidad":1,
+      "estado":true,
+      "destacado":false
     }
-    
     
 
     
