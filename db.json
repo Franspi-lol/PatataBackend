@@ -269,7 +269,7 @@
       "nombre": "Hornito 'Manifestar'",
       "descripcion": "Hornito de cerámica, perfecto para quemar inciensos, o simplemente para decorar tu hogar.",
       "precio": 7500,
-      "imagen": [],
+      "imagen": ["https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%2010.4/manifestar1.jpeg", "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%2010.4/manifestar2.jpeg", "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%2010.4/manifestar3.jpeg"],
       "categoria": "Hornitos",
       "cantidad": 1,
       "estado": true,
