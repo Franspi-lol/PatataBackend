@@ -268,11 +268,11 @@
       "id": 25,
       "nombre": "Hornito 'Manifestar'",
       "descripcion": "Hornito de cerámica, perfecto para quemar inciensos, o simplemente para decorar tu hogar.",
-      "precio": 7000,
+      "precio": 7500,
       "imagen": [],
       "categoria": "Hornitos",
-      "cantidad": 0,
-      "estado": false,
+      "cantidad": 1,
+      "estado": true,
       "destacado": false
     },
     {
@@ -419,6 +419,7 @@
       "estado":true,
       "destacado":false
     }
+    
     
 
     
