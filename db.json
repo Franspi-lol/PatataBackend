@@ -5,7 +5,15 @@
       "nombre": "Pedidos personalizados",
       "descripcion": "¿Buscas la pieza perfecta que complemente tu hogar y refleje tu estilo único? ¡No busques más! Una pieza diseñada exclusivamente para vos. Del 1 al 3 de cada mes tomo pedidos, por fuera de esa fecha los pedidos no se recepcionan. Me contas tu idea, y con el 50% de la seña empezó a trabajar. Los pedidos personalizados tienen un tiempo de entrega estimado de 21 días.",
       "precio": 0,
-      "imagen": ["https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/perso7.jpeg","https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/perso2.jpeg", "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/perso3.jpeg", "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/perso4.jpeg", "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/perso5.jpeg", "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/perso6.jpeg", "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/perso1.jpeg"],
+      "imagen": [
+        "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/perso7.jpeg",
+        "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/perso2.jpeg",
+        "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/perso3.jpeg",
+        "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/perso4.jpeg",
+        "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/perso5.jpeg",
+        "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/perso6.jpeg",
+        "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/perso1.jpeg"
+      ],
       "categoria": "Personalizado",
       "cantidad": 10,
       "estado": true,
@@ -16,7 +24,9 @@
       "nombre": "Taza Niki 'Good News'",
       "descripcion": "Taza perfecta para el desayuno y la merienda. Tiene una falla estética en el esmalte, está no impide su uso, ni su calidad.",
       "precio": 4900,
-      "imagen": ["https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/GoodDays.jpeg"],
+      "imagen": [
+        "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/GoodDays.jpeg"
+      ],
       "categoria": "Tazas",
       "cantidad": 1,
       "estado": false,
@@ -27,7 +37,9 @@
       "nombre": "Taza Niki 'Cherry classic'",
       "descripcion": "Taza perfecta para el desayuno y la merienda.",
       "precio": 6000,
-      "imagen": ["https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/Cherry.jpeg"],
+      "imagen": [
+        "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/Cherry.jpeg"
+      ],
       "categoria": "Tazas",
       "cantidad": 1,
       "estado": false,
@@ -38,7 +50,10 @@
       "nombre": "Pocillo Winnie",
       "descripcion": "Taza blanca y negra, tamaño pocillo, perfecta para un Espresso.",
       "precio": 5500,
-      "imagen": ["https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/winnie.jpeg","https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/winnie2.jpeg"],
+      "imagen": [
+        "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/winnie.jpeg",
+        "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/winnie2.jpeg"
+      ],
       "categoria": "Tazas",
       "cantidad": 1,
       "estado": false,
@@ -49,7 +64,10 @@
       "nombre": "Pocillo Winnie 'Better Days'",
       "descripcion": "Taza tipo reproductor musical, con manchas de colores y flores hippies negras. Tamaño pocillo, perfecta para un Espresso.",
       "precio": 5500,
-      "imagen": ["https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/BetterDays.jpeg","https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/BetterDays2.jpeg"],
+      "imagen": [
+        "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/BetterDays.jpeg",
+        "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/BetterDays2.jpeg"
+      ],
       "categoria": "Tazas",
       "cantidad": 1,
       "estado": false,
@@ -60,7 +78,9 @@
       "nombre": "Pocillo Winnie 'Good Days'",
       "descripcion": "Taza estilo reproductor musical, con girasoles amarillos. Tamaño pocillo perfecta para un Espresso.",
       "precio": 5500,
-      "imagen": ["https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/GoodDaysWinnie.jpeg"],
+      "imagen": [
+        "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/GoodDaysWinnie.jpeg"
+      ],
       "categoria": "Tazas",
       "cantidad": 1,
       "estado": false,
@@ -71,7 +91,10 @@
       "nombre": "Pocillo Winnie 'Pink Cow'",
       "descripcion": "Taza blanca con manchas rosadas, tamaño pocillo perfecta para un Espresso",
       "precio": 5500,
-      "imagen": ["https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/PinkCow.jpeg","https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/PinkCow2.jpeg"],
+      "imagen": [
+        "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/PinkCow.jpeg",
+        "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/PinkCow2.jpeg"
+      ],
       "categoria": "Tazas",
       "cantidad": 1,
       "estado": false,
@@ -82,7 +105,9 @@
       "nombre": "Tazas Calabaza",
       "descripcion": "Taza con formato de calabaza, tamaño pocillo, perfecta para tomar un té, es un diseño exclusivo de Patata Cerámica",
       "precio": 5500,
-      "imagen": ["https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/calabaza.jpeg"],
+      "imagen": [
+        "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/calabaza.jpeg"
+      ],
       "categoria": "Tazas",
       "cantidad": 0,
       "estado": false,
@@ -93,7 +118,10 @@
       "nombre": "Mate Uchi 'Totoro'",
       "descripcion": "Mate incluye bombilla. Pintado a mano, como Totoro el famoso personaje de Estudio Ghibli está listo para acompañarte",
       "precio": 5700,
-      "imagen": ["https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/Totoro.jpeg","https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/Totoro%20(2).jpeg"],
+      "imagen": [
+        "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/Totoro.jpeg",
+        "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/Totoro%20(2).jpeg"
+      ],
       "categoria": "Mates",
       "cantidad": 1,
       "estado": false,
@@ -104,7 +132,9 @@
       "nombre": "Mate Uchi 'Summer'",
       "descripcion": "Incluye bombilla, es un mate pintado a mano con engobes multicolor y esgrafiado para que se vea su color de base blanco. Perfecto paraoa tereres en la playa",
       "precio": 5700,
-      "imagen": ["https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/mateUchi.jpeg"],
+      "imagen": [
+        "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/mateUchi.jpeg"
+      ],
       "categoria": "Mates",
       "cantidad": 1,
       "estado": false,
@@ -115,7 +145,9 @@
       "nombre": "Mate Uchi 'Van Gogh'",
       "descripcion": "Incluye bombilla, mate pintado a mano como la famosa obra 'La noche estrellada', diseño perfecto para los amantes del arte y tomar mate viendo el atardecer",
       "precio": 5700,
-      "imagen": ["https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/mateGogh.jpeg"],
+      "imagen": [
+        "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/mateGogh.jpeg"
+      ],
       "categoria": "Mates",
       "cantidad": 1,
       "estado": false,
@@ -126,7 +158,10 @@
       "nombre": "Mate Uchi 'Fungi-Bee'",
       "descripcion": "Mate hecho mano, con la incrustación de mini esculturas cerámicas, perfecto para quienes amarían tener un mate original. Incluye bombilla",
       "precio": 5700,
-      "imagen": ["https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/MateFungi.jpeg","https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/MateFungi2.jpeg"],
+      "imagen": [
+        "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/MateFungi.jpeg",
+        "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/MateFungi2.jpeg"
+      ],
       "categoria": "Mates",
       "cantidad": 1,
       "estado": false,
@@ -137,7 +172,10 @@
       "nombre": "Bowl 'Girl Dinner'",
       "descripcion": "Bowl pintado a mano con verduras, zanahorias, remolachas, ajies, tomates. Adentro está escrito Girl Dinner. Perfecto para las que quieren poner su comida en un recipiente coqueto",
       "precio": 5000,
-      "imagen": ["https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/GirlDinner.jpeg","https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/GirlDinner2.jpeg"],
+      "imagen": [
+        "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/GirlDinner.jpeg",
+        "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/GirlDinner2.jpeg"
+      ],
       "categoria": "Bowls",
       "cantidad": 1,
       "estado": false,
@@ -148,7 +186,9 @@
       "nombre": "Bowl 'Hollin'",
       "descripcion": "Bowl con Hollines y estrellas pintadas, perfecto para los amantes de estudio Ghibli y de comer rico",
       "precio": 5000,
-      "imagen": ["https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/Hollin.jpeg"],
+      "imagen": [
+        "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/Hollin.jpeg"
+      ],
       "categoria": "Bowls",
       "cantidad": 0,
       "estado": false,
@@ -159,10 +199,12 @@
       "nombre": "Bowl Gatito",
       "descripcion": "Bowl pequeño, está pensando para poner el dip de alguna picada, o bien para ponerle la comida y el agua a nuestro gato. Es un bowl Plano para que no le molesten los bigotes.",
       "precio": 4500,
-      "imagen": ["https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/gatito1.jpeg"],
+      "imagen": [
+        "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/gatito1.jpeg"
+      ],
       "categoria": "Bowls",
       "cantidad": 1,
-      "estado": true,
+      "estado": false,
       "destacado": false
     },
     {
@@ -170,7 +212,9 @@
       "nombre": "Bowl Gatito Tricolor",
       "descripcion": "Bowl pequeño, está pensando para poner el dip de alguna picada, o bien para ponerle la comida y el agua a nuestro gato. Es un bowl Plano para que no le molesten los bigotes.",
       "precio": 4500,
-      "imagen": ["https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/gatito2.jpeg"],
+      "imagen": [
+        "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/gatito2.jpeg"
+      ],
       "categoria": "Bowls",
       "cantidad": 1,
       "estado": true,
@@ -181,7 +225,9 @@
       "nombre": "Bowl Vaquita",
       "descripcion": "Bowl perfecto para los amantes de los animales, hecho a mano sin molde",
       "precio": 5500,
-      "imagen": ["https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/vaquita.jpeg"],
+      "imagen": [
+        "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/vaquita.jpeg"
+      ],
       "categoria": "Bowls",
       "cantidad": 1,
       "estado": false,
@@ -192,7 +238,10 @@
       "nombre": "Frasquito 'Bachicha'",
       "descripcion": "Frasquito pequeño, ideal para guardar clips, invisibles, cigarros, o cositas que no sabes dónde poner. Está hecho a mano, y es perfecto para los amantes de los perritos.",
       "precio": 6500,
-      "imagen": ["https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/bachicha.jpeg", "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/bachicha2.jpeg"],
+      "imagen": [
+        "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/bachicha.jpeg",
+        "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/bachicha2.jpeg"
+      ],
       "categoria": "Frasquitos",
       "cantidad": 1,
       "estado": false,
@@ -203,7 +252,10 @@
       "nombre": "Frasquito 'Sapito Brujo'",
       "descripcion": "Frasquito esotérico, con sapito brujo, ideal para guardar clips, invisibles, cigarros o lo que quieras, perfecto para los amantes de lo esotérico.",
       "precio": 6500,
-      "imagen": ["https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/sapito.jpeg", "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/sapito2.jpeg"],
+      "imagen": [
+        "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/sapito.jpeg",
+        "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/sapito2.jpeg"
+      ],
       "categoria": "Frasquitos",
       "cantidad": 1,
       "estado": false,
@@ -214,7 +266,12 @@
       "nombre": "Stickers Patata",
       "descripcion": "Stickers de Patata Cerámica, perfectos para decorar tu computadora, celular, cuaderno, o lo que quieras. Aptos para Termo.",
       "precio": 350,
-      "imagen": ["https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/matestick.jpeg", "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/culitostick.jpeg", "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/diva.jpeg", "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/estudio.jpeg"],
+      "imagen": [
+        "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/matestick.jpeg",
+        "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/culitostick.jpeg",
+        "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/diva.jpeg",
+        "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/estudio.jpeg"
+      ],
       "categoria": "Merchandising",
       "cantidad": 1,
       "estado": false,
@@ -225,7 +282,11 @@
       "nombre": "Llaveros de Patata",
       "descripcion": "Llaveros de Patata Cerámica, perfectos para decorar tu llavero, mochila, o lo que quieras.",
       "precio": 1500,
-      "imagen": ["https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/matellav.jpeg", "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/culitollav.jpeg", "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/divallav.jpeg"],
+      "imagen": [
+        "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/matellav.jpeg",
+        "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/culitollav.jpeg",
+        "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/divallav.jpeg"
+      ],
       "categoria": "Merchandising",
       "cantidad": 1,
       "estado": false,
@@ -236,7 +297,9 @@
       "nombre": "Cenicero 'No me olvides'",
       "descripcion": "Cenicero floreado, perfecto para los amantes de la naturaleza y de fumar.",
       "precio": 4500,
-      "imagen": ["https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/nomeolvides.jpeg"],
+      "imagen": [
+        "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/nomeolvides.jpeg"
+      ],
       "categoria": "Ceniceros",
       "cantidad": 1,
       "estado": false,
@@ -247,7 +310,9 @@
       "nombre": "Gift Card",
       "descripcion": "Las gift cards tienen una validez de un mes para ser utilizadas. El monto puede canjearse por cualquier producto del Stock disponible.",
       "precio": 3000,
-      "imagen": ["https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/gift.jpeg"],
+      "imagen": [
+        "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/gift.jpeg"
+      ],
       "categoria": "Merchandising",
       "cantidad": 1,
       "estado": true,
@@ -258,7 +323,11 @@
       "nombre": "Hornito 'Rainbow'",
       "descripcion": "Hornito de cerámica, perfecto para quemar inciensos, o simplemente para decorar tu hogar.",
       "precio": 7000,
-      "imagen": ["https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%2016/1/hornorainbow.jpg", "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%2016/1/hornitocloudy4.jpg", "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%2016/1/hornitorainbow2.jpg"],
+      "imagen": [
+        "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%2016/1/hornorainbow.jpg",
+        "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%2016/1/hornitocloudy4.jpg",
+        "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%2016/1/hornitorainbow2.jpg"
+      ],
       "categoria": "Hornitos",
       "cantidad": 1,
       "estado": false,
@@ -269,7 +338,11 @@
       "nombre": "Hornito 'Manifestar'",
       "descripcion": "Hornito de cerámica, perfecto para quemar inciensos, o simplemente para decorar tu hogar.",
       "precio": 7500,
-      "imagen": ["https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%2010.4/manifestar1.jpeg", "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%2010.4/manifestar2.jpeg", "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%2010.4/manifestar3.jpeg"],
+      "imagen": [
+        "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%2010.4/manifestar1.jpeg",
+        "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%2010.4/manifestar2.jpeg",
+        "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%2010.4/manifestar3.jpeg"
+      ],
       "categoria": "Hornitos",
       "cantidad": 1,
       "estado": true,
@@ -280,7 +353,11 @@
       "nombre": "Portasahumerios 'Rainbow'",
       "descripcion": "Portasahumerios de cerámica, perfecto para quemar sahumerios, o simplemente para decorar tu hogar.",
       "precio": 1800,
-      "imagen": ["https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%2016/1/sahumeriorainbow.jpg", "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%2016/1/sahurainbow.jpg", "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%2016/1/sahurainbow2.jpg"],
+      "imagen": [
+        "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%2016/1/sahumeriorainbow.jpg",
+        "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%2016/1/sahurainbow.jpg",
+        "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%2016/1/sahurainbow2.jpg"
+      ],
       "categoria": "Portasahumerios",
       "cantidad": 2,
       "estado": false,
@@ -291,7 +368,12 @@
       "nombre": "Tazón 'Manifest it Baby'",
       "descripcion": "Super Tazón con una capacidad de 450ml, por lo que puede usarse como tazón o cuenco por su gran tamaño. Tiene pequeñas fallas en el esmalte las cuales no afectan ni a su uso ni a su estetica",
       "precio": 8500,
-      "imagen": ["https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%2016/1/tazonmanifest5.jpg", "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%2016/1/tazonmanifest4.jpg", "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%2016/1/tazonmanifest3.jpg", "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%2016/1/tazonManifest.jpg"],
+      "imagen": [
+        "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%2016/1/tazonmanifest5.jpg",
+        "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%2016/1/tazonmanifest4.jpg",
+        "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%2016/1/tazonmanifest3.jpg",
+        "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%2016/1/tazonManifest.jpg"
+      ],
       "categoria": "Tazas",
       "cantidad": 1,
       "estado": false,
@@ -302,7 +384,15 @@
       "nombre": "Promocion 'Portasahumerios y Hornito'",
       "descripcion": "Promocion de Portasahumerios y Hornito de cerámica, perfecto para quemar sahumerios,velitas o inciensos, o simplemente para decorar tu hogar. Dale un aroma único a tu hogar",
       "precio": 8500,
-      "imagen": ["https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%2016/1/combo(rainbow).jpg","https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%2016/1/combo2.jpg","https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%2016/1/IMG-20240116-WA0041.jpg","https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%2016/1/combo4.jpg", "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%2016/1/IMG-20240116-WA0043.jpg","https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%2016/1/combosau.jpg", "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%2016/1/combosau2.jpg"],
+      "imagen": [
+        "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%2016/1/combo(rainbow).jpg",
+        "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%2016/1/combo2.jpg",
+        "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%2016/1/IMG-20240116-WA0041.jpg",
+        "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%2016/1/combo4.jpg",
+        "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%2016/1/IMG-20240116-WA0043.jpg",
+        "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%2016/1/combosau.jpg",
+        "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%2016/1/combosau2.jpg"
+      ],
       "categoria": "Promociones",
       "cantidad": 1,
       "estado": false,
@@ -313,7 +403,10 @@
       "nombre": "Mate Pachalala 'Sunny'",
       "descripcion": "Mate Pachalala pintado a mano, con un diseño de soles, perfecto para los amantes de la naturaleza y de tomar mate. Incluye bombilla",
       "precio": 5500,
-      "imagen": ["https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%2016/1/matesunny.jpg", "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%2016/1/mateSunny3.jpg"],
+      "imagen": [
+        "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%2016/1/matesunny.jpg",
+        "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%2016/1/mateSunny3.jpg"
+      ],
       "categoria": "Mates",
       "cantidad": 1,
       "estado": false,
@@ -324,7 +417,11 @@
       "nombre": "Mate Pachalala 'Cloudy'",
       "descripcion": "Mate Pachalala pintado a mano, con un diseño de nubes, perfecto para los amantes de la naturaleza y de tomar mate. Incluye bombilla",
       "precio": 5500,
-      "imagen": ["https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%2016/1/mateCloudy.jpg", "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%2016/1/matecloudy2.jpg", "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%2016/1/matecloudy3.jpg"],
+      "imagen": [
+        "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%2016/1/mateCloudy.jpg",
+        "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%2016/1/matecloudy2.jpg",
+        "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%2016/1/matecloudy3.jpg"
+      ],
       "categoria": "Mates",
       "cantidad": 1,
       "estado": false,
@@ -335,7 +432,10 @@
       "nombre": "Portasahumerios 'Cherry'",
       "descripcion": "Portasahumerios de cerámica, perfecto para quemar sahumerios, o simplemente para decorar tu hogar.",
       "precio": 1800,
-      "imagen": ["https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%2016/1/IMG-20240116-WA0044.jpg", "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%2016/1/sahucherry.jpg"],
+      "imagen": [
+        "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%2016/1/IMG-20240116-WA0044.jpg",
+        "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%2016/1/sahucherry.jpg"
+      ],
       "categoria": "Portasahumerios",
       "cantidad": 0,
       "estado": false,
@@ -346,7 +446,10 @@
       "nombre": "Portasahumerios 'Coquette'",
       "descripcion": "Portasahumerios de cerámica, perfecto para quemar sahumerios, o simplemente para decorar tu hogar.",
       "precio": 1800,
-      "imagen": ["https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%2016/1/coquette.jpg", "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%2016/1/coquette2.jpg"],
+      "imagen": [
+        "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%2016/1/coquette.jpg",
+        "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%2016/1/coquette2.jpg"
+      ],
       "categoria": "Portasahumerios",
       "cantidad": 1,
       "estado": false,
@@ -357,7 +460,10 @@
       "nombre": "Cenicero 'Retro'",
       "descripcion": "Cenicero de cerámica, perfecto para los amantes de lo retro y de fumar.",
       "precio": 4500,
-      "imagen": ["https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%2016/1/ceniceroretro2.jpg", "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%2016/1/ceniceroretro.jpg"],
+      "imagen": [
+        "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%2016/1/ceniceroretro2.jpg",
+        "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%2016/1/ceniceroretro.jpg"
+      ],
       "categoria": "Ceniceros",
       "cantidad": 1,
       "estado": false,
@@ -368,7 +474,10 @@
       "nombre": "Cenicero 'Fuck Off'",
       "descripcion": "Cenicero de cerámica, pintado a mano, para los que disfrutan el arte de fumar sin que les importe lo que digan los demas.",
       "precio": 4500,
-      "imagen": ["https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%2016/1/cenicerofuck.jpg", "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%2016/1/IMG-20240116-WA0042.jpg"],
+      "imagen": [
+        "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%2016/1/cenicerofuck.jpg",
+        "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%2016/1/IMG-20240116-WA0042.jpg"
+      ],
       "categoria": "Ceniceros",
       "cantidad": 1,
       "estado": true,
@@ -379,50 +488,188 @@
       "nombre": "Mate Gatito",
       "descripcion": "Mate incluye bombilla. Pintado a mano, como un gatito naranja",
       "precio": 5700,
-      "imagen": ["https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/mategatito.jpeg", "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/mategatito2.jpeg"],
-      "categoria":"Mates",
-      "cantidad":0,
-      "estado":false,
-      "destacado":false
+      "imagen": [
+        "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/mategatito.jpeg",
+        "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/mategatito2.jpeg"
+      ],
+      "categoria": "Mates",
+      "cantidad": 0,
+      "estado": false,
+      "destacado": false
     },
     {
       "id": 36,
       "nombre": "Taza 'Pato la vida'",
       "descripcion": "Taza en forma de pato, esencial para tus desayunos.",
       "precio": 4500,
-      "imagen":["https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%2016/2/pato1.jpeg", "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%2016/2/pato2.jpeg"],
-      "categoria":"Tazas",
-      "cantidad":1,
-      "estado":true,
-      "destacado":false
+      "imagen": [
+        "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%2016/2/pato1.jpeg",
+        "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%2016/2/pato2.jpeg"
+      ],
+      "categoria": "Tazas",
+      "cantidad": 1,
+      "estado": true,
+      "destacado": false
     },
     {
       "id": 37,
       "nombre": "Mini bowl 'Avatar'",
       "descripcion": "Mini bowl pintado a mano, con el diseño Appa, perfecto para los amantes de Avatar.",
       "precio": 4500,
-      "imagen":["https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%2016/2/avatar1.jpeg", "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%2016/2/avatar2.jpeg"],
-      "categoria":"Bowls",
-      "cantidad":1,
-      "estado":true,
-      "destacado":false
-
+      "imagen": [
+        "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%2016/2/avatar1.jpeg",
+        "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%2016/2/avatar2.jpeg"
+      ],
+      "categoria": "Bowls",
+      "cantidad": 1,
+      "estado": false,
+      "destacado": false
     },
     {
       "id": 38,
-      "nombre": "Alhajero 'Bunny'",
+      "nombre": "Alhajero-Despojador 'Bunny'",
       "descripcion": "Alhajero pintado a mano, con el diseño de un conejo, perfecto para guardar tus alhajas.",
-      "precio": 2500,
-      "imagen":["https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%2016/2/conejo1.jpeg", "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%2016/2/conejo2.jpeg"],
-      "categoria":"Bowls",
-      "cantidad":1,
-      "estado":true,
-      "destacado":false
+      "precio": 3500,
+      "imagen": [
+        "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%2016/2/conejo1.jpeg",
+        "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%2016/2/conejo2.jpeg"
+      ],
+      "categoria": "Chucherias",
+      "cantidad": 1,
+      "estado": true,
+      "destacado": false
+    },
+    {
+      "id": 39,
+      "nombre": "Portavela 'Salchi'",
+      "descripcion": "Portavela pintado a mano, con el diseño de un salchicha, perfecto para decorar tu hogar.",
+      "precio": 5800,
+      "imagen": [],
+      "categoria": "Portavelas",
+      "cantidad": 1,
+      "estado": true,
+      "destacado": false
+    },
+    {
+      "id": 40,
+      "nombre": "Portavela 'Michi'",
+      "descripcion": "Portavela pintado a mano, con el diseño de un gato, perfecto para decorar tu hogar.",
+      "precio": 5500,
+      "imagen": [],
+      "categoria": "Portavelas",
+      "cantidad": 1,
+      "estado": true,
+      "destacado": false
+    },
+    {
+      "id": 41,
+      "nombre": "Portavela 'Capibara'",
+      "descripcion": "Portavela pintado a mano, con el diseño de un capibara, perfecto para decorar tu hogar.",
+      "precio": 5800,
+      "imagen": [],
+      "categoria": "Portavelas",
+      "cantidad": 1,
+      "estado": true,
+      "destacado": false
+    },
+    {
+      "id": 42,
+      "nombre": "Portavela 'Sin cara'",
+      "descripcion": "Portavela pintado a mano, con el diseño de Sin Cara, perfecto para los amantes de Estudio Ghibli.",
+      "precio": 5500,
+      "imagen": [],
+      "categoria": "Portavelas",
+      "cantidad": 1,
+      "estado": true,
+      "destacado": false
+    },
+    {
+      "id": 43,
+      "nombre": "Alhajero-Despojador 'Totoro'",
+      "descripcion": "Alhajero-Despojador pintado a mano, con el diseño de Totoro, perfecto para los amantes de Estudio Ghibli.",
+      "precio": 5500,
+      "imagen": [],
+      "categoria": "Chucherias",
+      "cantidad": 1,
+      "estado": true,
+      "destacado": false
+    },
+    {
+      "id": 44,
+      "nombre": "Taza Cali 'Stitch'",
+      "descripcion": "Taza pintada a mano, con el diseño de Stitch, perfecto para los amantes de Disney.",
+      "precio": 10000,
+      "imagen": [],
+      "categoria": "Tazas",
+      "cantidad": 1,
+      "estado": true,
+      "destacado": false
+    },
+    {
+      "id": 45,
+      "nombre": "Sifones",
+      "descripcion": "Sifones de cerámica, perfectos para decorar tu hogar.",
+      "precio": 2000,
+      "imagen": [],
+      "categoria": "Chucherias",
+      "cantidad": 4,
+      "estado": true,
+      "destacado": false
+    },
+    {
+      "id": 46,
+      "nombre": "Pipa 'Patita'",
+      "descripcion": "Pipa de cerámica, perfecta para fumar. En forma de patita de gatito",
+      "precio": 6000,
+      "imagen": [],
+      "categoria": "Pipas",
+      "cantidad": 1,
+      "estado": true,
+      "destacado": false
+    },
+    {
+      "id": 47,
+      "nombre": "Pipa 'Aji'",
+      "descripcion": "Pipa de cerámica, perfecta para fumar. En forma de aji. Se recomienda usar con redecilla de metal, ya que el agujero es grande y puede ser que al inspirar se absorba ceniza, aún así se puede usar para fumar sin problema",
+      "precio": 3300,
+      "imagen": [],
+      "categoria": "Pipas",
+      "cantidad": 1,
+      "estado": true,
+      "destacado": false
+    },
+    {
+      "id": 48,
+      "nombre": "Pipa 'Flower'",
+      "descripcion": "Pipa de cerámica, perfecta para fumar. Se puede utilizar sin problema, sin embargo se RECOMIENDA el uso de redecilla ya que puede entrar por los agujeritos la ceniza",
+      "precio": 4000,
+      "imagen": [],
+      "categoria": "Pipas",
+      "cantidad": 1,
+      "estado": true,
+      "destacado": false
+    },
+    {
+      "id": 49,
+      "nombre": "Cuadrito 'De entrada'",
+      "descripcion": "Cuadrito de cerámica, perfecto para decorar tu hogar.",
+      "precio": 2800,
+      "imagen": [],
+      "categoria": "Chucherias",
+      "cantidad": 1,
+      "estado": true,
+      "destacado": false
+    },
+    {
+      "id": 50,
+      "nombre": "Cuadrito 'Comedor'",
+      "descripcion": "Cuadrito de cerámica, perfecto para decorar tu hogar.",
+      "precio": 2800,
+      "imagen": [],
+      "categoria": "Chucherias",
+      "cantidad": 1,
+      "estado": true,
+      "destacado": false
     }
-    
-    
-
-    
-    
   ]
 }
