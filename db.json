@@ -531,8 +531,8 @@
       "descripcion": "Alhajero pintado a mano, con el diseño de un conejo, perfecto para guardar tus alhajas.",
       "precio": 3500,
       "imagen": [
-        "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%2016/2/conejo1.jpeg",
-        "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%2016/2/conejo2.jpeg"
+        "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%20420/bunny1.jpeg",
+        "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%20420/bunny2.jpeg"
       ],
       "categoria": "Chucherias",
       "cantidad": 1,
@@ -544,7 +544,10 @@
       "nombre": "Portavela 'Salchi'",
       "descripcion": "Portavela pintado a mano, con el diseño de un salchicha, perfecto para decorar tu hogar.",
       "precio": 5800,
-      "imagen": [],
+      "imagen": [
+        "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%20420/bachicha1.jpeg",
+        "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%20420/bachicha%202.jpeg"
+      ],
       "categoria": "Portavelas",
       "cantidad": 1,
       "estado": true,
@@ -555,7 +558,10 @@
       "nombre": "Portavela 'Michi'",
       "descripcion": "Portavela pintado a mano, con el diseño de un gato, perfecto para decorar tu hogar.",
       "precio": 5500,
-      "imagen": [],
+      "imagen": [
+        "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%20420/gato1.jpeg",
+        "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%20420/gato2.jpeg"
+      ],
       "categoria": "Portavelas",
       "cantidad": 1,
       "estado": true,
@@ -566,7 +572,10 @@
       "nombre": "Portavela 'Capibara'",
       "descripcion": "Portavela pintado a mano, con el diseño de un capibara, perfecto para decorar tu hogar.",
       "precio": 5800,
-      "imagen": [],
+      "imagen": [
+        "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%20420/capi1.jpeg",
+        "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%20420/capi2.jpeg"
+      ],
       "categoria": "Portavelas",
       "cantidad": 1,
       "estado": true,
@@ -577,7 +586,10 @@
       "nombre": "Portavela 'Sin cara'",
       "descripcion": "Portavela pintado a mano, con el diseño de Sin Cara, perfecto para los amantes de Estudio Ghibli.",
       "precio": 5500,
-      "imagen": [],
+      "imagen": [
+        "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%20420/sincara1.jpeg",
+        "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%20420/sincara2.jpeg"
+      ],
       "categoria": "Portavelas",
       "cantidad": 1,
       "estado": true,
@@ -588,7 +600,9 @@
       "nombre": "Alhajero-Despojador 'Totoro'",
       "descripcion": "Alhajero-Despojador pintado a mano, con el diseño de Totoro, perfecto para los amantes de Estudio Ghibli.",
       "precio": 5500,
-      "imagen": [],
+      "imagen": [
+        "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%20420/totoro1.jpeg"
+      ],
       "categoria": "Chucherias",
       "cantidad": 1,
       "estado": true,
@@ -599,7 +613,10 @@
       "nombre": "Taza Cali 'Stitch'",
       "descripcion": "Taza pintada a mano, con el diseño de Stitch, perfecto para los amantes de Disney.",
       "precio": 10000,
-      "imagen": [],
+      "imagen": [
+        "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%20420/stitch1.jpeg",
+        "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%20420/stitch2.jpeg"
+      ],
       "categoria": "Tazas",
       "cantidad": 1,
       "estado": true,
@@ -610,7 +627,10 @@
       "nombre": "Sifones",
       "descripcion": "Sifones de cerámica, perfectos para decorar tu hogar.",
       "precio": 2000,
-      "imagen": [],
+      "imagen": [
+        "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%20420/sifon1.jpeg",
+        "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%20420/sifon2.jpeg"
+      ],
       "categoria": "Chucherias",
       "cantidad": 4,
       "estado": true,
@@ -621,7 +641,10 @@
       "nombre": "Pipa 'Patita'",
       "descripcion": "Pipa de cerámica, perfecta para fumar. En forma de patita de gatito",
       "precio": 6000,
-      "imagen": [],
+      "imagen": [
+        "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%20420/pipas4.jpeg",
+        "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%20420/pipas1.jpeg"
+      ],
       "categoria": "Pipas",
       "cantidad": 1,
       "estado": true,
@@ -632,7 +655,10 @@
       "nombre": "Pipa 'Aji'",
       "descripcion": "Pipa de cerámica, perfecta para fumar. En forma de aji. Se recomienda usar con redecilla de metal, ya que el agujero es grande y puede ser que al inspirar se absorba ceniza, aún así se puede usar para fumar sin problema",
       "precio": 3300,
-      "imagen": [],
+      "imagen": [
+        "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%20420/pipas5.jpeg",
+        "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%20420/pipas1.jpeg"
+      ],
       "categoria": "Pipas",
       "cantidad": 1,
       "estado": true,
@@ -643,7 +669,10 @@
       "nombre": "Pipa 'Flower'",
       "descripcion": "Pipa de cerámica, perfecta para fumar. Se puede utilizar sin problema, sin embargo se RECOMIENDA el uso de redecilla ya que puede entrar por los agujeritos la ceniza",
       "precio": 4000,
-      "imagen": [],
+      "imagen": [
+        "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%20420/pipas3.jpeg",
+        "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%20420/pipas1.jpeg"
+      ],
       "categoria": "Pipas",
       "cantidad": 1,
       "estado": true,
@@ -654,7 +683,9 @@
       "nombre": "Cuadrito 'De entrada'",
       "descripcion": "Cuadrito de cerámica, perfecto para decorar tu hogar.",
       "precio": 2800,
-      "imagen": [],
+      "imagen": [
+        "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%20420/entrada.jpeg"
+      ],
       "categoria": "Chucherias",
       "cantidad": 1,
       "estado": true,
@@ -665,7 +696,9 @@
       "nombre": "Cuadrito 'Comedor'",
       "descripcion": "Cuadrito de cerámica, perfecto para decorar tu hogar.",
       "precio": 2800,
-      "imagen": [],
+      "imagen": [
+        "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%20420/comedor.jpeg"
+      ],
       "categoria": "Chucherias",
       "cantidad": 1,
       "estado": true,
