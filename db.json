@@ -215,7 +215,7 @@
       "imagen": [
         "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/gatito2.jpeg"
       ],
-      "categoria": "Bowls",
+      "categoria": "Outlet",
       "cantidad": 1,
       "estado": true,
       "destacado": false
@@ -473,12 +473,12 @@
       "id": 34,
       "nombre": "Cenicero 'Fuck Off'",
       "descripcion": "Cenicero de cerámica, pintado a mano, para los que disfrutan el arte de fumar sin que les importe lo que digan los demas.",
-      "precio": 4500,
+      "precio": 3500,
       "imagen": [
         "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%2016/1/cenicerofuck.jpg",
         "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%2016/1/IMG-20240116-WA0042.jpg"
       ],
-      "categoria": "Ceniceros",
+      "categoria": "Outlet",
       "cantidad": 1,
       "estado": true,
       "destacado": false
