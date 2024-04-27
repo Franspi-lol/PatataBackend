@@ -508,7 +508,7 @@
       ],
       "categoria": "Tazas",
       "cantidad": 1,
-      "estado": true,
+      "estado": false,
       "destacado": false
     },
     {
@@ -564,7 +564,7 @@
       ],
       "categoria": "Portavelas",
       "cantidad": 1,
-      "estado": true,
+      "estado": false,
       "destacado": false
     },
     {
