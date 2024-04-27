@@ -703,6 +703,35 @@
       "cantidad": 1,
       "estado": true,
       "destacado": false
+    },
+    {
+      "id": 51,
+      "nombre": "Mamushka Totoro",
+      "descripcion": "Mamushka de cerámica, perfecto para decorar tu hogar.",
+      "precio": 6700,
+      "imagen": [
+        "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%20420/mamushka1.jpeg",
+        "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%20420/mamushka2.jpeg",
+        "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%20420/mamushka3.jpeg"
+      ],
+      "categoria": "Chucherias",
+      "cantidad": 1,
+      "estado": true,
+      "destacado": false
+    },
+    {
+      "id": 52,
+      "nombre": "Gatitos Guardianes",
+      "descripcion": "Combo de gatitos guardianes, perfecto para decorar tu hogar. El negro, tiene como falla una burbuja de esmalte en el osico.",
+      "precio":6500,
+      "imagen":[],
+      "categoria":"Chucherias",
+      "cantidad":1,
+      "estado":true,
+      "destacado":false
+    },
+    {
+      
     }
   ]
 }
