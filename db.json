@@ -619,7 +619,7 @@
       ],
       "categoria": "Tazas",
       "cantidad": 1,
-      "estado": true,
+      "estado": false,
       "destacado": false
     },
     {
@@ -684,6 +684,8 @@
       "descripcion": "Cuadrito de cerámica, perfecto para decorar tu hogar.",
       "precio": 2800,
       "imagen": [
+        "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%2027.4/entrada.jpeg",
+        "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%2027.4/cometrada.jpeg",
         "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%20420/entrada.jpeg"
       ],
       "categoria": "Chucherias",
@@ -697,6 +699,8 @@
       "descripcion": "Cuadrito de cerámica, perfecto para decorar tu hogar.",
       "precio": 2800,
       "imagen": [
+        "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%2027.4/comedor.jpeg",
+        "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%2027.4/cometrada.jpeg",
         "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%20420/comedor.jpeg"
       ],
       "categoria": "Chucherias",
@@ -710,9 +714,9 @@
       "descripcion": "Mamushka de cerámica, perfecto para decorar tu hogar.",
       "precio": 6700,
       "imagen": [
-        "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%20420/mamushka1.jpeg",
-        "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%20420/mamushka2.jpeg",
-        "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%20420/mamushka3.jpeg"
+        "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%2027.4/mamushka1.jpeg",
+        "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%2027.4/mamushka2.jpeg",
+        "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%2027.4/mamushka3.jpeg"
       ],
       "categoria": "Chucherias",
       "cantidad": 1,
@@ -723,15 +727,46 @@
       "id": 52,
       "nombre": "Gatitos Guardianes",
       "descripcion": "Combo de gatitos guardianes, perfecto para decorar tu hogar. El negro, tiene como falla una burbuja de esmalte en el osico.",
-      "precio":6500,
-      "imagen":[],
-      "categoria":"Chucherias",
-      "cantidad":1,
-      "estado":true,
-      "destacado":false
+      "precio": 6500,
+      "imagen": [
+        "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%2027.4/gatito1.jpeg",
+        "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%2027.4/gatito2.jpeg",
+        "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%2027.4/gatito3.jpeg"
+      ],
+      "categoria": "Chucherias",
+      "cantidad": 1,
+      "estado": true,
+      "destacado": false
     },
     {
-      
+      "id": 53,
+      "nombre": "Gatito Guardian Blanco",
+      "descripcion": "Gatito guardian blanco de ceramica",
+      "precio": 3800,
+      "imagen": [
+        "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%2027.4/gatito1.jpeg",
+        "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%2027.4/gatito2.jpeg",
+        "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%2027.4/gatito3.jpeg"
+      ],
+      "categoria": "Chucherias",
+      "cantidad": 1,
+      "estado": true,
+      "destacado": false
+    },
+    {
+      "id": 54,
+      "nombre": "Gatito Guardian Negro",
+      "descripcion": "Gatito guardian negro de ceramica. Tiene como falla una burbuja de esmalte en el osico.",
+      "precio": 3300,
+      "imagen": [
+        "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%2027.4/gatito1.jpeg",
+        "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%2027.4/gatito2.jpeg",
+        "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%2027.4/gatito3.jpeg"
+      ],
+      "categoria": "Chucherias",
+      "cantidad": 1,
+      "estado": true,
+      "destacado": false
     }
   ]
 }
