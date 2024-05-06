@@ -543,7 +543,7 @@
       "id": 39,
       "nombre": "Portavela 'Salchi'",
       "descripcion": "Portavela pintado a mano, con el diseño de un salchicha, perfecto para decorar tu hogar.",
-      "precio": 5800,
+      "precio": 6300,
       "imagen": [
         "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%20420/bachicha1.jpeg",
         "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%20420/bachicha%202.jpeg"
@@ -571,7 +571,7 @@
       "id": 41,
       "nombre": "Portavela 'Capibara'",
       "descripcion": "Portavela pintado a mano, con el diseño de un capibara, perfecto para decorar tu hogar.",
-      "precio": 5800,
+      "precio": 6300,
       "imagen": [
         "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%20420/capi1.jpeg",
         "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%20420/capi2.jpeg"
@@ -585,7 +585,7 @@
       "id": 42,
       "nombre": "Portavela 'Sin cara'",
       "descripcion": "Portavela pintado a mano, con el diseño de Sin Cara, perfecto para los amantes de Estudio Ghibli.",
-      "precio": 5500,
+      "precio": 5900,
       "imagen": [
         "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%20420/sincara1.jpeg",
         "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%20420/sincara2.jpeg"
@@ -599,7 +599,7 @@
       "id": 43,
       "nombre": "Alhajero-Despojador 'Totoro'",
       "descripcion": "Alhajero-Despojador pintado a mano, con el diseño de Totoro, perfecto para los amantes de Estudio Ghibli.",
-      "precio": 5500,
+      "precio": 6300,
       "imagen": [
         "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%20420/totoro1.jpeg"
       ],
@@ -626,7 +626,7 @@
       "id": 45,
       "nombre": "Sifones",
       "descripcion": "Sifones de cerámica, perfectos para decorar tu hogar.",
-      "precio": 2000,
+      "precio": 2500,
       "imagen": [
         "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%20420/sifon1.jpeg",
         "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%20420/sifon2.jpeg"
