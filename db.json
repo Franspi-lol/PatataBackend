@@ -770,7 +770,17 @@
     },
     {
       "id": 55,
-      
+      "nombre": "Ovillero Chanchito",
+      "descripcion": "Ovillero chanchito de ceramica. Perfecto para guardar tus ovillos de lana.",
+      "precio": 12000,
+      "imagen": [
+        "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%2020.5/ovilleroc.jpeg",
+        "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%2020.5/ovillerogc.jpeg"
+      ],
+      "categoria": "Bowls",
+      "cantidad": 1,
+      "estado": true,
+      "destacado": false
     }
   ]
 }
