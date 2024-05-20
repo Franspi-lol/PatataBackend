@@ -771,13 +771,119 @@
     {
       "id": 55,
       "nombre": "Ovillero Chanchito",
-      "descripcion": "Ovillero chanchito de ceramica. Perfecto para guardar tus ovillos de lana.",
+      "descripcion": "Ovillero chanchito de ceramica. Perfecto para guardar tus ovillos de lana. Medidas 7,5 cm de alto y 9 de diámetro",
       "precio": 12000,
       "imagen": [
         "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%2020.5/ovilleroc.jpeg",
         "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%2020.5/ovillerogc.jpeg"
       ],
       "categoria": "Bowls",
+      "cantidad": 1,
+      "estado": true,
+      "destacado": false
+    },
+    {
+      "id": 56,
+      "nombre": "Ovillero Gatito",
+      "descripcion": "Ovillero gatito de ceramica. Perfecto para guardar tus ovillos de lana. Medidas 7,5 cm de alto y 9 de diámetro",
+      "precio": 12000,
+      "imagen": [
+        "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%2020.5/ovillerog.jpeg",
+        "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%2020.5/ovillerogc.jpeg"
+      ],
+      "categoria": "Bowls",
+      "cantidad": 1,
+      "estado": true,
+      "destacado": false
+    },
+    {
+      "id": 57,
+      "nombre": "Taza 'MichiFrutilla'",
+      "descripcion": "Taza pintada a mano, con el diseño de un gato con frutillas, perfecto para los amantes de los gatos.",
+      "precio": 10000,
+      "imagen": [
+        "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%2020.5/michifruti.jpeg",
+        "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%2020.5/michifruti2.jpeg"
+      ],
+      "categoria": "Tazas",
+      "cantidad": 1,
+      "estado": true,
+      "destacado": false
+    },
+    {
+      "id": 58,
+      "nombre": "Michi Pins",
+      "descripcion": "Pins de cerámica, perfectos para decorar tu ropa.",
+      "precio": 2000,
+      "imagen": [
+        "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%2020.5/pinscat.jpeg"
+      ],
+      "categoria": "Chucherias",
+      "cantidad": 4,
+      "estado": true,
+      "destacado": false
+    },
+    {
+      "id": 59,
+      "nombre": "Doggy Pins",
+      "descripcion": "Pins de cerámica, perfectos para decorar tu ropa.",
+      "precio": 2000,
+      "imagen": [
+        "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%2020.5/pinsdog.jpeg"
+      ],
+      "categoria": "Chucherias",
+      "cantidad": 2,
+      "estado": true,
+      "destacado": false
+    },
+    {
+      "id": 60,
+      "nombre": "Pins",
+      "descripcion": "Pins de cerámica, perfectos para decorar tu ropa.",
+      "precio": 2000,
+      "imagen": [
+        "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%2020.5/pins.jpeg"
+      ],
+      "categoria": "Chucherias",
+      "cantidad": 6,
+      "estado": true,
+      "destacado": false
+    },
+    {
+      "id": 61,
+      "nombre": "Imanes",
+      "descripcion": "Imanes de cerámica, perfectos para decorar tu heladera.",
+      "precio": 1800,
+      "imagen": [
+        "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%2020.5/imanes.jpeg"
+      ],
+      "categoria": "Chucherias",
+      "cantidad": 3,
+      "estado": true,
+      "destacado": false
+    },
+    {
+      "id": 62,
+      "nombre": "Iman Estampilla 'No Rain'",
+      "descripcion": "Iman de cerámica en formato de estampilla, perfecto para decorar tu heladera.",
+      "precio": 2500,
+      "imagen": [
+        "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%2020.5/estampilla2.jpeg"
+      ],
+      "categoria": "Chucherias",
+      "cantidad": 1,
+      "estado": true,
+      "destacado": false
+    },
+    {
+      "id": 63,
+      "nombre": "Iman Estampilla 'Born this way'",
+      "descripcion": "Iman de cerámica en formato de estampilla, perfecto para decorar tu heladera.",
+      "precio": 2500,
+      "imagen": [
+        "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%2020.5/estampilla1.jpeg"
+      ],
+      "categoria": "Chucherias",
       "cantidad": 1,
       "estado": true,
       "destacado": false
