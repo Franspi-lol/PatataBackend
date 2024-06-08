@@ -36,13 +36,14 @@
       "id": 3,
       "nombre": "Taza Niki 'Cherry classic'",
       "descripcion": "Taza perfecta para el desayuno y la merienda.",
-      "precio": 6000,
+      "precio": 8500,
       "imagen": [
-        "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/Cherry.jpeg"
+        "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%208.6/cherry.jpeg",
+        "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%208.6/cherry1.jpeg"
       ],
       "categoria": "Tazas",
       "cantidad": 1,
-      "estado": false,
+      "estado": true,
       "destacado": false
     },
     {
@@ -63,14 +64,14 @@
       "id": 5,
       "nombre": "Pocillo Winnie 'Better Days'",
       "descripcion": "Taza tipo reproductor musical, con manchas de colores y flores hippies negras. Tamaño pocillo, perfecta para un Espresso.",
-      "precio": 5500,
+      "precio": 7000,
       "imagen": [
-        "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/BetterDays.jpeg",
-        "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/BetterDays2.jpeg"
+        "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%208.6/betterDays.jpeg",
+        "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%208.6/betterDays1.jpeg"
       ],
       "categoria": "Tazas",
       "cantidad": 1,
-      "estado": false,
+      "estado": true,
       "destacado": false
     },
     {
@@ -90,14 +91,14 @@
       "id": 7,
       "nombre": "Pocillo Winnie 'Pink Cow'",
       "descripcion": "Taza blanca con manchas rosadas, tamaño pocillo perfecta para un Espresso",
-      "precio": 5500,
+      "precio": 7000,
       "imagen": [
-        "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/PinkCow.jpeg",
-        "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/PinkCow2.jpeg"
+        "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%208.6/pinkCow.jpeg",
+        "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%208.6/pinkCow1.jpeg"
       ],
       "categoria": "Tazas",
       "cantidad": 1,
-      "estado": false,
+      "estado": true,
       "destacado": false
     },
     {
@@ -131,26 +132,30 @@
       "id": 10,
       "nombre": "Mate Uchi 'Summer'",
       "descripcion": "Incluye bombilla, es un mate pintado a mano con engobes multicolor y esgrafiado para que se vea su color de base blanco. Perfecto paraoa tereres en la playa",
-      "precio": 5700,
+      "precio": 8500,
       "imagen": [
+        "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%208.6/uchi.jpeg",
+        "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%208.6/uchi1.jpeg",
         "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/mateUchi.jpeg"
       ],
       "categoria": "Mates",
       "cantidad": 1,
-      "estado": false,
+      "estado": true,
       "destacado": false
     },
     {
       "id": 11,
       "nombre": "Mate Uchi 'Van Gogh'",
       "descripcion": "Incluye bombilla, mate pintado a mano como la famosa obra 'La noche estrellada', diseño perfecto para los amantes del arte y tomar mate viendo el atardecer",
-      "precio": 5700,
+      "precio": 8500,
       "imagen": [
+        "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%208.6/vangogmate.jpeg",
+        "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%208.6/vangogmate1.jpeg",
         "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/mateGogh.jpeg"
       ],
       "categoria": "Mates",
       "cantidad": 1,
-      "estado": false,
+      "estado": true,
       "destacado": false
     },
     {
@@ -251,14 +256,14 @@
       "id": 19,
       "nombre": "Frasquito 'Sapito Brujo'",
       "descripcion": "Frasquito esotérico, con sapito brujo, ideal para guardar clips, invisibles, cigarros o lo que quieras, perfecto para los amantes de lo esotérico.",
-      "precio": 6500,
+      "precio": 10000,
       "imagen": [
-        "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/sapito.jpeg",
-        "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/sapito2.jpeg"
+        "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%208.6/sapito.jpeg",
+        "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%208.6/sapito1.jpeg"
       ],
       "categoria": "Frasquitos",
       "cantidad": 1,
-      "estado": false,
+      "estado": true,
       "destacado": false
     },
     {
@@ -322,15 +327,17 @@
       "id": 24,
       "nombre": "Hornito 'Rainbow'",
       "descripcion": "Hornito de cerámica, perfecto para quemar inciensos, o simplemente para decorar tu hogar.",
-      "precio": 7000,
+      "precio": 8000,
       "imagen": [
+        "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%208.6/arcoiris.jpeg",
+        "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%208.6/arcoiris1.jpeg",
         "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%2016/1/hornorainbow.jpg",
         "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%2016/1/hornitocloudy4.jpg",
         "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%2016/1/hornitorainbow2.jpg"
       ],
       "categoria": "Hornitos",
       "cantidad": 1,
-      "estado": false,
+      "estado": true,
       "destacado": false
     },
     {
@@ -402,14 +409,16 @@
       "id": 29,
       "nombre": "Mate Pachalala 'Sunny'",
       "descripcion": "Mate Pachalala pintado a mano, con un diseño de soles, perfecto para los amantes de la naturaleza y de tomar mate. Incluye bombilla",
-      "precio": 5500,
+      "precio": 7500,
       "imagen": [
+        "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%208.6/sunny.jpeg",
+        "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%208.6/sunny1.jpeg",
         "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%2016/1/matesunny.jpg",
         "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%2016/1/mateSunny3.jpg"
       ],
       "categoria": "Mates",
       "cantidad": 1,
-      "estado": false,
+      "estado": true,
       "destacado": false
     },
     {
@@ -418,6 +427,8 @@
       "descripcion": "Mate Pachalala pintado a mano, con un diseño de nubes, perfecto para los amantes de la naturaleza y de tomar mate. Incluye bombilla",
       "precio": 5500,
       "imagen": [
+        "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%208.6/cloudy.jpeg",
+        "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%208.6/cloudy1.jpeg",
         "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%2016/1/mateCloudy.jpg",
         "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%2016/1/matecloudy2.jpg",
         "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%2016/1/matecloudy3.jpg"
@@ -884,6 +895,227 @@
         "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%2020.5/estampilla1.jpeg"
       ],
       "categoria": "Chucherias",
+      "cantidad": 1,
+      "estado": true,
+      "destacado": false
+    },
+    {
+      "id": 64,
+      "nombre": "Pocillo Winnie 'Blackie'",
+      "descripcion": "Pocillo pintado a mano, con diseño de manchas negras.",
+      "precio": 7000,
+      "imagen": [
+        "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%208.6/blackie.jpeg",
+        "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%208.6/blackie1.jpeg"
+      ],
+      "categoria": "Tazas",
+      "cantidad": 1,
+      "estado": true,
+      "destacado": false
+    },
+    {
+      "id": 65,
+      "nombre": "Cenicero 'Flowers'",
+      "descripcion": "Cenicero de cerámica, perfecto para los amantes de la naturaleza y de fumar.",
+      "precio": 6000,
+      "imagen": [
+        "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%208.6/flowers1.jpeg",
+        "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%208.6/flowers.jpeg"
+      ],
+      "categoria": "Ceniceros",
+      "cantidad": 1,
+      "estado": true,
+      "destacado": false
+    },
+    {
+      "id": 66,
+      "nombre": "Cenicero 'Black'",
+      "descripcion": "Cenicero de cerámica, perfecto para los amantes de lo oscuro y de fumar.",
+      "precio": 6500,
+      "imagen": [
+        "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%208.6/black1.jpeg",
+        "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%208.6/black.jpeg"
+      ],
+      "categoria": "Ceniceros",
+      "cantidad": 1,
+      "estado": true,
+      "destacado": false
+    },
+    {
+      "id": 67,
+      "nombre": "Taza Niki 'Flower'",
+      "descripcion": "Taza pintada a mano, con diseño de flores.",
+      "precio": 9500,
+      "imagen": [
+        "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%208.6/flower.jpeg",
+        "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%208.6/flower1.jpeg"
+      ],
+      "categoria": "Tazas",
+      "cantidad": 1,
+      "estado": true,
+      "destacado": false
+    },
+    {
+      "id": 68,
+      "nombre": "Tazon 'Black'",
+      "descripcion": "Tazon pintado a mano, con diseño de flores negras.",
+      "precio": 12000,
+      "imagen": [
+        "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%208.6/blackTazon.jpeg",
+        "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%208.6/blackTazon1.jpeg"
+      ],
+      "categoria": "Tazas",
+      "cantidad": 1,
+      "estado": true,
+      "destacado": false
+    },
+    {
+      "id": 69,
+      "nombre": "Tazon 'Better Place'",
+      "descripcion": "Tazon pintado a mano, colorido y motivador.",
+      "precio": 9500,
+      "imagen": [
+        "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%208.6/betterPlace.jpeg",
+        "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%208.6/betterPlace1.jpeg"
+      ],
+      "categoria": "Tazas",
+      "cantidad": 1,
+      "estado": true,
+      "destacado": false
+    },
+    {
+      "id": 70,
+      "nombre": "Pocillo Winnie 'Van Gogh'",
+      "descripcion": "Pocillo pintado a mano, con diseño de Van Gogh.",
+      "precio": 7500,
+      "imagen": [
+        "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%208.6/vangogTaza.jpeg",
+        "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%208.6/vangogTaza1.jpeg"
+      ],
+      "categoria": "Tazas",
+      "cantidad": 1,
+      "estado": true,
+      "destacado": false
+    },
+    {
+      "id": 71,
+      "nombre": "Set taza + bandeja 'Journey'",
+      "descripcion": "Set de taza y bandeja pintados a mano, con dibujo de gato.",
+      "precio": 17000,
+      "imagen": [
+        "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%208.6/tazabandejaJourney.jpeg",
+        "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%208.6/tazabandejaJourney1.jpeg"
+      ],
+      "categoria": "Promociones",
+      "cantidad": 1,
+      "estado": true,
+      "destacado": false
+    },
+    {
+      "id": 72,
+      "nombre": "Hornito 'Flowers'",
+      "descripcion": "Hornito de cerámica, perfecto para quemar sahumerios, velitas o simplemente para decorar tu hogar.",
+      "precio": 8000,
+      "imagen": [
+        "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%208.6/flowerHorno.jpeg",
+        "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%208.6/flowerHorno1.jpeg"
+      ],
+      "categoria": "Hornitos",
+      "cantidad": 1,
+      "estado": true,
+      "destacado": false
+    },
+    {
+      "id": 73,
+      "nombre": "Prendedores",
+      "descripcion": "Prendedores de cerámica, perfectos para decorar tu ropa.",
+      "precio": 1800,
+      "imagen": [
+        "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%208.6/pins.jpeg",
+        "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%208.6/pins1.jpeg"
+      ],
+      "categoria": "Chucherias",
+      "cantidad": 4,
+      "estado": true,
+      "destacado": false
+    },
+    {
+      "id": 74,
+      "nombre": "Maceta 'Flowers",
+      "descripcion": "Maceta de cerámica, perfecta para decorar tu hogar.",
+      "precio": 5500,
+      "imagen": [
+        "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%208.6/maceta.jpeg",
+        "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%208.6/maceta1.jpeg"
+      ],
+      "categoria": "Chucherias",
+      "cantidad": 1,
+      "estado": true,
+      "destacado": false
+    },
+    {
+      "id": 75,
+      "nombre": "Azucarera 'Flowers'",
+      "descripcion": "Azucarera de cerámica, perfecta para decorar tu hogar.",
+      "precio": 9000,
+      "imagen": [
+        "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%208.6/azucar.jpeg",
+        "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%208.6/azucar1.jpeg"
+      ],
+      "categoria": "Chucherias",
+      "cantidad": 1,
+      "estado": true,
+      "destacado": false
+    },
+    {
+      "id": 76,
+      "nombre": "Set Mate + Bandeja 'Van Gogh'",
+      "descripcion": "Set de mate y bandeja pintados a mano, con diseño de Van Gogh.",
+      "precio": 16000,
+      "imagen": [
+        "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%208.6/matebandejagog.jpeg"
+      ],
+      "categoria": "Promociones",
+      "cantidad": 1,
+      "estado": true,
+      "destacado": false
+    },
+    {
+      "id": 77,
+      "nombre": "Set taza + bandeja 'Van Gogh'",
+      "descripcion": "Set de taza y bandeja pintados a mano, con diseño de Van Gogh.",
+      "precio": 17000,
+      "imagen": [
+        "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%208.6/tazabandejagog.jpeg",
+        "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%208.6/tazabandejagog1.jpeg"
+      ],
+      "categoria": "Promociones",
+      "cantidad": 1,
+      "estado": true,
+      "destacado": false
+    },
+    {
+      "id": 78,
+      "nombre": "Set completo 'Flowers'",
+      "descripcion": "Set completo de taza, azucarera y bandeja, pintados a mano, con diseño de flores.",
+      "precio": 27000,
+      "imagen": [
+        "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%208.6/setfloreal.jpeg"
+      ],
+      "categoria": "Promociones",
+      "cantidad": 1,
+      "estado": true,
+      "destacado": false
+    },
+    {
+      "id": 79,
+      "nombre": "Set taza + bandeja 'Flowers'",
+      "descripcion": "Set de taza y bandeja pintados a mano, con diseño de flores.",
+      "precio": 17000,
+      "imagen": [
+        "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%208.6/tazabandejaflor.jpeg"
+      ],
+      "categoria": "Promociones",
       "cantidad": 1,
       "estado": true,
       "destacado": false
