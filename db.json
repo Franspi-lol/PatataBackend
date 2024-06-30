@@ -50,7 +50,7 @@
       "id": 4,
       "nombre": "Pocillo Winnie",
       "descripcion": "Taza blanca y negra, tamaño pocillo, perfecta para un Espresso.",
-      "precio": 5500,
+      "precio": 7000,
       "imagen": [
         "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/winnie.jpeg",
         "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/winnie2.jpeg"
@@ -78,7 +78,7 @@
       "id": 6,
       "nombre": "Pocillo Winnie 'Good Days'",
       "descripcion": "Taza estilo reproductor musical, con girasoles amarillos. Tamaño pocillo perfecta para un Espresso.",
-      "precio": 5500,
+      "precio": 7000,
       "imagen": [
         "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/GoodDaysWinnie.jpeg"
       ],
@@ -425,7 +425,7 @@
       "id": 30,
       "nombre": "Mate Pachalala 'Cloudy'",
       "descripcion": "Mate Pachalala pintado a mano, con un diseño de nubes, perfecto para los amantes de la naturaleza y de tomar mate. Incluye bombilla",
-      "precio": 5500,
+      "precio": 7500,
       "imagen": [
         "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%208.6/cloudy.jpeg",
         "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%208.6/cloudy1.jpeg",
@@ -470,14 +470,14 @@
       "id": 33,
       "nombre": "Cenicero 'Retro'",
       "descripcion": "Cenicero de cerámica, perfecto para los amantes de lo retro y de fumar.",
-      "precio": 4500,
+      "precio": 4000,
       "imagen": [
         "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%2016/1/ceniceroretro2.jpg",
         "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%2016/1/ceniceroretro.jpg"
       ],
-      "categoria": "Ceniceros",
+      "categoria": "Outlet",
       "cantidad": 1,
-      "estado": false,
+      "estado": true,
       "destacado": false
     },
     {
@@ -547,14 +547,14 @@
       ],
       "categoria": "Chucherias",
       "cantidad": 1,
-      "estado": true,
+      "estado": false,
       "destacado": false
     },
     {
       "id": 39,
       "nombre": "Portavela 'Salchi'",
       "descripcion": "Portavela pintado a mano, con el diseño de un salchicha, perfecto para decorar tu hogar.",
-      "precio": 6300,
+      "precio": 6500,
       "imagen": [
         "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%20420/bachicha1.jpeg",
         "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%20420/bachicha%202.jpeg"
@@ -568,7 +568,7 @@
       "id": 40,
       "nombre": "Portavela 'Michi'",
       "descripcion": "Portavela pintado a mano, con el diseño de un gato, perfecto para decorar tu hogar.",
-      "precio": 5500,
+      "precio": 6500,
       "imagen": [
         "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%20420/gato1.jpeg",
         "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%20420/gato2.jpeg"
@@ -582,7 +582,7 @@
       "id": 41,
       "nombre": "Portavela 'Capibara'",
       "descripcion": "Portavela pintado a mano, con el diseño de un capibara, perfecto para decorar tu hogar.",
-      "precio": 6300,
+      "precio": 6500,
       "imagen": [
         "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%20420/capi1.jpeg",
         "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%20420/capi2.jpeg"
@@ -596,7 +596,7 @@
       "id": 42,
       "nombre": "Portavela 'Sin cara'",
       "descripcion": "Portavela pintado a mano, con el diseño de Sin Cara, perfecto para los amantes de Estudio Ghibli.",
-      "precio": 5900,
+      "precio": 6500,
       "imagen": [
         "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%20420/sincara1.jpeg",
         "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%20420/sincara2.jpeg"
@@ -637,7 +637,7 @@
       "id": 45,
       "nombre": "Sifones",
       "descripcion": "Sifones de cerámica, perfectos para decorar tu hogar.",
-      "precio": 2500,
+      "precio": 3000,
       "imagen": [
         "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%20420/sifon1.jpeg",
         "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%20420/sifon2.jpeg"
@@ -672,7 +672,7 @@
       ],
       "categoria": "Pipas",
       "cantidad": 1,
-      "estado": true,
+      "estado": false,
       "destacado": false
     },
     {
@@ -701,7 +701,7 @@
       ],
       "categoria": "Chucherias",
       "cantidad": 1,
-      "estado": true,
+      "estado": false,
       "destacado": false
     },
     {
@@ -716,7 +716,7 @@
       ],
       "categoria": "Chucherias",
       "cantidad": 1,
-      "estado": true,
+      "estado": false,
       "destacado": false
     },
     {
@@ -746,7 +746,7 @@
       ],
       "categoria": "Chucherias",
       "cantidad": 1,
-      "estado": true,
+      "estado": false,
       "destacado": false
     },
     {
@@ -761,7 +761,7 @@
       ],
       "categoria": "Chucherias",
       "cantidad": 1,
-      "estado": true,
+      "estado": false,
       "destacado": false
     },
     {
@@ -776,7 +776,7 @@
       ],
       "categoria": "Chucherias",
       "cantidad": 1,
-      "estado": true,
+      "estado": false,
       "destacado": false
     },
     {
@@ -980,14 +980,14 @@
       ],
       "categoria": "Tazas",
       "cantidad": 1,
-      "estado": true,
+      "estado": false,
       "destacado": false
     },
     {
       "id": 70,
       "nombre": "Pocillo Winnie 'Van Gogh'",
       "descripcion": "Pocillo pintado a mano, con diseño de Van Gogh.",
-      "precio": 7500,
+      "precio": 7000,
       "imagen": [
         "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%208.6/vangogTaza.jpeg",
         "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%208.6/vangogTaza1.jpeg"
@@ -1029,7 +1029,7 @@
       "id": 73,
       "nombre": "Prendedores",
       "descripcion": "Prendedores de cerámica, perfectos para decorar tu ropa.",
-      "precio": 1800,
+      "precio": 2500,
       "imagen": [
         "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%208.6/pins.jpeg",
         "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%208.6/pins1.jpeg"
