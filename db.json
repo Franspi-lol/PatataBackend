@@ -301,13 +301,14 @@
       "id": 22,
       "nombre": "Cenicero 'No me olvides'",
       "descripcion": "Cenicero floreado, perfecto para los amantes de la naturaleza y de fumar.",
-      "precio": 4500,
+      "precio": 4000,
       "imagen": [
+        "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%2030.6/blue.jpeg",
         "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/nomeolvides.jpeg"
       ],
-      "categoria": "Ceniceros",
+      "categoria": "Outlet",
       "cantidad": 1,
-      "estado": false,
+      "estado": true,
       "destacado": false
     },
     {
@@ -472,6 +473,7 @@
       "descripcion": "Cenicero de cerámica, perfecto para los amantes de lo retro y de fumar.",
       "precio": 4000,
       "imagen": [
+        "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%2030.6/retro.jpeg",
         "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%2016/1/ceniceroretro2.jpg",
         "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%2016/1/ceniceroretro.jpg"
       ],
@@ -978,7 +980,7 @@
         "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%208.6/betterPlace.jpeg",
         "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%208.6/betterPlace1.jpeg"
       ],
-      "categoria": "Tazas",
+      "categoria": "Outlet",
       "cantidad": 1,
       "estado": false,
       "destacado": false
@@ -1116,6 +1118,36 @@
         "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%208.6/tazabandejaflor.jpeg"
       ],
       "categoria": "Promociones",
+      "cantidad": 1,
+      "estado": true,
+      "destacado": false
+    },
+    {
+      "id": 80,
+      "nombre": "Combo Bowl 'Flowers'",
+      "descripcion": "Combo de bowls pintados a mano, con diseño de flores.",
+      "precio": 11000,
+      "imagen": [
+        "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%2030.6/bowl1.jpeg",
+        "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%2030.6/bowl2.jpeg",
+        "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%2030.6/bowl3.jpeg"
+      ],
+      "categoria": "Promociones",
+      "cantidad": 1,
+      "estado": true,
+      "destacado": false
+    },
+    {
+      "id": 81,
+      "nombre": "Bowl 'Flowers'",
+      "descripcion": "Bowl pintado a mano, con diseño de flores.",
+      "precio": 6500,
+      "imagen": [
+        "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%2030.6/bowl1.jpeg",
+        "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%2030.6/bowl2.jpeg",
+        "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%2030.6/bowl3.jpeg"
+      ],
+      "categoria": "Bowls",
       "cantidad": 1,
       "estado": true,
       "destacado": false
