@@ -1151,6 +1151,20 @@
       "cantidad": 1,
       "estado": true,
       "destacado": false
+    },
+    {
+      "id": 82,
+      "nombre": "Taza 'Agui'",
+      "descripcion": "Esta exquisita taza 'Agui' está pintada a mano, con un vibrante color naranja que aporta alegría y vitalidad a cualquier momento del día. Su diseño es único y exclusivo, creado con esmero y dedicación para ofrecerte una pieza verdaderamente especial.",
+      "precio": 8000,
+      "imagen": [
+        "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%2030.6/molde.jpeg",
+        "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%2030.6/molde1.jpeg"
+      ],
+      "categoria": "Tazas",
+      "cantidad": 1,
+      "estado": true,
+      "destacado": false
     }
   ]
 }
