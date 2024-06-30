@@ -493,7 +493,7 @@
       ],
       "categoria": "Outlet",
       "cantidad": 1,
-      "estado": true,
+      "estado": false,
       "destacado": false
     },
     {
@@ -612,7 +612,7 @@
       "id": 43,
       "nombre": "Alhajero-Despojador 'Totoro'",
       "descripcion": "Alhajero-Despojador pintado a mano, con el diseño de Totoro, perfecto para los amantes de Estudio Ghibli.",
-      "precio": 6300,
+      "precio": 6500,
       "imagen": [
         "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%20420/totoro1.jpeg"
       ],
