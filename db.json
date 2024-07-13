@@ -301,7 +301,7 @@
       "id": 22,
       "nombre": "Cenicero 'No me olvides'",
       "descripcion": "Cenicero floreado, perfecto para los amantes de la naturaleza y de fumar.",
-      "precio": 4000,
+      "precio": 6500,
       "imagen": [
         "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%2030.6/blue.jpeg",
         "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/nomeolvides.jpeg"
@@ -328,7 +328,7 @@
       "id": 24,
       "nombre": "Hornito 'Rainbow'",
       "descripcion": "Hornito de cerámica, perfecto para quemar inciensos, o simplemente para decorar tu hogar.",
-      "precio": 8000,
+      "precio": 10000,
       "imagen": [
         "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%208.6/arcoiris.jpeg",
         "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%208.6/arcoiris1.jpeg",
@@ -345,7 +345,7 @@
       "id": 25,
       "nombre": "Hornito 'Manifestar'",
       "descripcion": "Hornito de cerámica, perfecto para quemar inciensos, o simplemente para decorar tu hogar.",
-      "precio": 7500,
+      "precio": 10000,
       "imagen": [
         "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%2010.4/manifestar1.jpeg",
         "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%2010.4/manifestar2.jpeg",
@@ -471,7 +471,7 @@
       "id": 33,
       "nombre": "Cenicero 'Retro'",
       "descripcion": "Cenicero de cerámica, perfecto para los amantes de lo retro y de fumar.",
-      "precio": 4000,
+      "precio": 6500,
       "imagen": [
         "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%2030.6/retro.jpeg",
         "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%2016/1/ceniceroretro2.jpg",
@@ -486,7 +486,7 @@
       "id": 34,
       "nombre": "Cenicero 'Fuck Off'",
       "descripcion": "Cenicero de cerámica, pintado a mano, para los que disfrutan el arte de fumar sin que les importe lo que digan los demas.",
-      "precio": 3500,
+      "precio": 6500,
       "imagen": [
         "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%2016/1/cenicerofuck.jpg",
         "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%2016/1/IMG-20240116-WA0042.jpg"
@@ -919,7 +919,7 @@
       "id": 65,
       "nombre": "Cenicero 'Flowers'",
       "descripcion": "Cenicero de cerámica, perfecto para los amantes de la naturaleza y de fumar.",
-      "precio": 6000,
+      "precio": 6500,
       "imagen": [
         "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%208.6/flowers1.jpeg",
         "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%208.6/flowers.jpeg"
@@ -1017,7 +1017,7 @@
       "id": 72,
       "nombre": "Hornito 'Flowers'",
       "descripcion": "Hornito de cerámica, perfecto para quemar sahumerios, velitas o simplemente para decorar tu hogar.",
-      "precio": 8000,
+      "precio": 10000,
       "imagen": [
         "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%208.6/flowerHorno.jpeg",
         "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%208.6/flowerHorno1.jpeg"
@@ -1059,7 +1059,7 @@
       "id": 75,
       "nombre": "Azucarera 'Flowers'",
       "descripcion": "Azucarera de cerámica, perfecta para decorar tu hogar.",
-      "precio": 9000,
+      "precio": 12000,
       "imagen": [
         "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%208.6/azucar.jpeg",
         "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%208.6/azucar1.jpeg"
