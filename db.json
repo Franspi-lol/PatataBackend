@@ -1165,6 +1165,72 @@
       "cantidad": 1,
       "estado": true,
       "destacado": false
+    },
+    {
+      "id": 83,
+      "nombre": "Tazon 'Michi al sol'",
+      "descripcion": "Tazon pintado a mano, con diseño de gato al sol.",
+      "precio": 12500,
+      "imagen": [
+        "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%2013.7/michisol1.jpeg",
+        "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%2013.7/michisol2.jpeg"
+      ],
+      "categoria": "Tazas",
+      "cantidad": 1,
+      "estado": true,
+      "destacado": false
+    },
+    {
+      "id": 84,
+      "nombre": "Taza gatito lector",
+      "descripcion": "Taza pintada a mano, con diseño de gato lector.",
+      "precio": 9500,
+      "imagen": [
+        "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%2013.7/michilector.jpeg"
+      ],
+      "categoria": "Tazas",
+      "cantidad": 1,
+      "estado": true,
+      "destacado": false
+    },
+    {
+      "id": 85,
+      "nombre": "Taza 'Introspeccion'",
+      "descripcion": "Taza pintada a mano, con diseño para pensar.",
+      "precio": 9500,
+      "imagen": [
+        "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%2013.7/introspeccion.jpeg"
+      ],
+      "categoria": "Tazas",
+      "cantidad": 1,
+      "estado": true,
+      "destacado": false
+    },
+    {
+      "id": 86,
+      "nombre": "Mate 'Gatito'",
+      "descripcion": "Mate pintado a mano, con diseño de gato oscuros. Viene con bombilla",
+      "precio": 8500,
+      "imagen": [
+        "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%2013.7/mategatito1.jpeg"
+      ],
+      "categoria": "Mate",
+      "cantidad": 1,
+      "estado": true,
+      "destacado": false
+    },
+    {
+      "id": 87,
+      "nombre": "Mate 'Chismecito'",
+      "descripcion": "Mate pintado a mano, con diseño para todos los chismosos. Viene con bombilla",
+      "precio": 8500,
+      "imagen": [
+        "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%2013.7/chisme1.jpeg"
+      ],
+      "categoria": "Mate",
+      "cantidad": 1,
+      "estado": true,
+      "destacado": false
     }
   ]
 }
