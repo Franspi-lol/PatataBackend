@@ -155,7 +155,7 @@
       ],
       "categoria": "Mates",
       "cantidad": 1,
-      "estado": true,
+      "estado": false,
       "destacado": false
     },
     {
@@ -360,7 +360,7 @@
       "id": 26,
       "nombre": "Portasahumerios 'Rainbow'",
       "descripcion": "Portasahumerios de cerámica, perfecto para quemar sahumerios, o simplemente para decorar tu hogar.",
-      "precio": 1800,
+      "precio": 3500,
       "imagen": [
         "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%2016/1/sahumeriorainbow.jpg",
         "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%2016/1/sahurainbow.jpg",
@@ -368,7 +368,7 @@
       ],
       "categoria": "Portasahumerios",
       "cantidad": 2,
-      "estado": false,
+      "estado": true,
       "destacado": false
     },
     {
@@ -457,14 +457,14 @@
       "id": 32,
       "nombre": "Portasahumerios 'Coquette'",
       "descripcion": "Portasahumerios de cerámica, perfecto para quemar sahumerios, o simplemente para decorar tu hogar.",
-      "precio": 1800,
+      "precio": 3500,
       "imagen": [
         "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%2016/1/coquette.jpg",
         "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%2016/1/coquette2.jpg"
       ],
       "categoria": "Portasahumerios",
       "cantidad": 1,
-      "estado": false,
+      "estado": true,
       "destacado": false
     },
     {
@@ -1079,7 +1079,7 @@
       ],
       "categoria": "Promociones",
       "cantidad": 1,
-      "estado": true,
+      "estado": false,
       "destacado": false
     },
     {
