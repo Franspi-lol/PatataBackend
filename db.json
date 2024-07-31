@@ -1156,7 +1156,7 @@
       "id": 82,
       "nombre": "Taza 'Agui'",
       "descripcion": "Esta exquisita taza 'Agui' está pintada a mano, con un vibrante color naranja que aporta alegría y vitalidad a cualquier momento del día. Su diseño es único y exclusivo, creado con esmero y dedicación para ofrecerte una pieza verdaderamente especial.",
-      "precio": 8000,
+      "precio": 8500,
       "imagen": [
         "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%2030.6/molde.jpeg",
         "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%2030.6/molde1.jpeg"
@@ -1228,6 +1228,34 @@
         "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%2013.7/chisme1.jpeg"
       ],
       "categoria": "Mate",
+      "cantidad": 1,
+      "estado": true,
+      "destacado": false
+    },
+    {
+      "id": 88,
+      "nombre": "Azucarera 'Hippie'",
+      "descripcion": "Azucarera pintada a mano, con diseño hippie.",
+      "precio": 10000,
+      "imagen": [
+        "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/30.7/zucker.jpeg",
+        "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/30.7/zucker1.jpeg"
+      ],
+      "categoria": "Chucherias",
+      "cantidad": 1,
+      "estado": true,
+      "destacado": false
+    },
+    {
+      "id": 89,
+      "nombre": "Taza 'Agui Violeta'",
+      "descripcion": "Taza pintada a mano, con diseño Agui en violeta.",
+      "precio": 8000,
+      "imagen": [
+        "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/30.7/agui.jpeg",
+        "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/30.7/agui1.jpeg"
+      ],
+      "categoria": "Tazas",
       "cantidad": 1,
       "estado": true,
       "destacado": false
