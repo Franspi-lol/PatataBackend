@@ -23,7 +23,7 @@
       "id": 2,
       "nombre": "Taza Niki 'Good News'",
       "descripcion": "Taza perfecta para el desayuno y la merienda. Tiene una falla estética en el esmalte, está no impide su uso, ni su calidad.",
-      "precio": 11000,
+      "precio": 12000,
       "imagen": [
         "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/GoodDays.jpeg"
       ],
@@ -36,7 +36,7 @@
       "id": 3,
       "nombre": "Taza Niki 'Cherry classic'",
       "descripcion": "Taza perfecta para el desayuno y la merienda.",
-      "precio": 11000,
+      "precio": 12000,
       "imagen": [
         "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%208.6/cherry.jpeg",
         "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%208.6/cherry1.jpeg"
@@ -118,7 +118,7 @@
       "id": 9,
       "nombre": "Mate Uchi 'Totoro'",
       "descripcion": "Mate incluye bombilla. Pintado a mano, como Totoro el famoso personaje de Estudio Ghibli está listo para acompañarte",
-      "precio": 10000,
+      "precio": 9500,
       "imagen": [
         "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/Totoro.jpeg",
         "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/Totoro%20(2).jpeg"
@@ -132,7 +132,7 @@
       "id": 10,
       "nombre": "Mate Uchi 'Summer'",
       "descripcion": "Incluye bombilla, es un mate pintado a mano con engobes multicolor y esgrafiado para que se vea su color de base blanco. Perfecto paraoa tereres en la playa",
-      "precio": 10000,
+      "precio": 9500,
       "imagen": [
         "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%208.6/uchi.jpeg",
         "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%208.6/uchi1.jpeg",
@@ -147,7 +147,7 @@
       "id": 11,
       "nombre": "Mate Uchi 'Van Gogh'",
       "descripcion": "Incluye bombilla, mate pintado a mano como la famosa obra 'La noche estrellada', diseño perfecto para los amantes del arte y tomar mate viendo el atardecer",
-      "precio": 10000,
+      "precio": 9500,
       "imagen": [
         "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%208.6/vangogmate.jpeg",
         "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%208.6/vangogmate1.jpeg",
@@ -162,7 +162,7 @@
       "id": 12,
       "nombre": "Mate Uchi 'Fungi-Bee'",
       "descripcion": "Mate hecho mano, con la incrustación de mini esculturas cerámicas, perfecto para quienes amarían tener un mate original. Incluye bombilla",
-      "precio": 10000,
+      "precio": 9500,
       "imagen": [
         "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/MateFungi.jpeg",
         "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/MateFungi2.jpeg"
@@ -301,7 +301,7 @@
       "id": 22,
       "nombre": "Cenicero 'No me olvides'",
       "descripcion": "Cenicero floreado, perfecto para los amantes de la naturaleza y de fumar.",
-      "precio": 7500,
+      "precio": 8000,
       "imagen": [
         "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%2030.6/blue.jpeg",
         "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/nomeolvides.jpeg"
@@ -375,7 +375,7 @@
       "id": 27,
       "nombre": "Tazón 'Manifest it Baby'",
       "descripcion": "Super Tazón con una capacidad de 450ml, por lo que puede usarse como tazón o cuenco por su gran tamaño. Tiene pequeñas fallas en el esmalte las cuales no afectan ni a su uso ni a su estetica",
-      "precio": 14500,
+      "precio": 15000,
       "imagen": [
         "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%2016/1/tazonmanifest5.jpg",
         "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%2016/1/tazonmanifest4.jpg",
@@ -410,7 +410,7 @@
       "id": 29,
       "nombre": "Mate Pachalala 'Sunny'",
       "descripcion": "Mate Pachalala pintado a mano, con un diseño de soles, perfecto para los amantes de la naturaleza y de tomar mate. Incluye bombilla",
-      "precio": 9000,
+      "precio": 9500,
       "imagen": [
         "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%208.6/sunny.jpeg",
         "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%208.6/sunny1.jpeg",
@@ -426,7 +426,7 @@
       "id": 30,
       "nombre": "Mate Pachalala 'Cloudy'",
       "descripcion": "Mate Pachalala pintado a mano, con un diseño de nubes, perfecto para los amantes de la naturaleza y de tomar mate. Incluye bombilla",
-      "precio": 9000,
+      "precio": 9500,
       "imagen": [
         "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%208.6/cloudy.jpeg",
         "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%208.6/cloudy1.jpeg",
@@ -471,7 +471,7 @@
       "id": 33,
       "nombre": "Cenicero 'Retro'",
       "descripcion": "Cenicero de cerámica, perfecto para los amantes de lo retro y de fumar.",
-      "precio": 7500,
+      "precio": 8000,
       "imagen": [
         "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%2030.6/retro.jpeg",
         "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%2016/1/ceniceroretro2.jpg",
@@ -486,7 +486,7 @@
       "id": 34,
       "nombre": "Cenicero 'Fuck Off'",
       "descripcion": "Cenicero de cerámica, pintado a mano, para los que disfrutan el arte de fumar sin que les importe lo que digan los demas.",
-      "precio": 7500,
+      "precio": 8000,
       "imagen": [
         "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%2016/1/cenicerofuck.jpg",
         "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%2016/1/IMG-20240116-WA0042.jpg"
@@ -785,7 +785,7 @@
       "id": 55,
       "nombre": "Ovillero Chanchito",
       "descripcion": "Ovillero chanchito de ceramica. Perfecto para guardar tus ovillos de lana. Medidas 7,5 cm de alto y 9 de diámetro",
-      "precio": 12000,
+      "precio": 14000,
       "imagen": [
         "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%2020.5/ovilleroc.jpeg",
         "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%2020.5/ovillerogc.jpeg"
@@ -799,7 +799,7 @@
       "id": 56,
       "nombre": "Ovillero Gatito",
       "descripcion": "Ovillero gatito de ceramica. Perfecto para guardar tus ovillos de lana. Medidas 7,5 cm de alto y 9 de diámetro",
-      "precio": 12000,
+      "precio": 14000,
       "imagen": [
         "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%2020.5/ovillerog.jpeg",
         "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%2020.5/ovillerogc.jpeg"
@@ -919,7 +919,7 @@
       "id": 65,
       "nombre": "Cenicero 'Flowers'",
       "descripcion": "Cenicero de cerámica, perfecto para los amantes de la naturaleza y de fumar.",
-      "precio": 7500,
+      "precio": 8000,
       "imagen": [
         "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%208.6/flowers1.jpeg",
         "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%208.6/flowers.jpeg"
@@ -933,7 +933,7 @@
       "id": 66,
       "nombre": "Cenicero 'Black'",
       "descripcion": "Cenicero de cerámica, perfecto para los amantes de lo oscuro y de fumar.",
-      "precio": 7500,
+      "precio": 8000,
       "imagen": [
         "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%208.6/black1.jpeg",
         "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%208.6/black.jpeg"
@@ -947,7 +947,7 @@
       "id": 67,
       "nombre": "Taza Niki 'Flower'",
       "descripcion": "Taza pintada a mano, con diseño de flores.",
-      "precio": 11000,
+      "precio": 12000,
       "imagen": [
         "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%208.6/flower.jpeg",
         "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%208.6/flower1.jpeg"
@@ -961,7 +961,7 @@
       "id": 68,
       "nombre": "Tazon 'Black'",
       "descripcion": "Tazon pintado a mano, con diseño de flores negras.",
-      "precio": 14500,
+      "precio": 15000,
       "imagen": [
         "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%208.6/blackTazon.jpeg",
         "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%208.6/blackTazon1.jpeg"
@@ -975,7 +975,7 @@
       "id": 69,
       "nombre": "Tazon 'Better Place'",
       "descripcion": "Tazon pintado a mano, colorido y motivador.",
-      "precio": 14500,
+      "precio": 15000,
       "imagen": [
         "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%208.6/betterPlace.jpeg",
         "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%208.6/betterPlace1.jpeg"
@@ -1003,7 +1003,7 @@
       "id": 71,
       "nombre": "Set taza + bandeja 'Journey'",
       "descripcion": "Set de taza y bandeja pintados a mano, con dibujo de gato.",
-      "precio": 17000,
+      "precio": 20000,
       "imagen": [
         "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%208.6/tazabandejaJourney.jpeg",
         "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%208.6/tazabandejaJourney1.jpeg"
@@ -1184,7 +1184,7 @@
       "id": 84,
       "nombre": "Taza gatito lector",
       "descripcion": "Taza pintada a mano, con diseño de gato lector.",
-      "precio": 9500,
+      "precio": 12000,
       "imagen": [
         "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%2013.7/michilector.jpeg"
       ],
@@ -1197,7 +1197,7 @@
       "id": 85,
       "nombre": "Taza 'Introspeccion'",
       "descripcion": "Taza pintada a mano, con diseño para pensar.",
-      "precio": 9500,
+      "precio": 12000,
       "imagen": [
         "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%2013.7/introspeccion.jpeg"
       ],
@@ -1210,7 +1210,7 @@
       "id": 86,
       "nombre": "Mate 'Gatito'",
       "descripcion": "Mate pintado a mano, con diseño de gato oscuros. Viene con bombilla",
-      "precio": 8500,
+      "precio": 9500,
       "imagen": [
         "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%2013.7/mategatito1.jpeg"
       ],
@@ -1223,7 +1223,7 @@
       "id": 87,
       "nombre": "Mate 'Chismecito'",
       "descripcion": "Mate pintado a mano, con diseño para todos los chismosos. Viene con bombilla",
-      "precio": 8500,
+      "precio": 9500,
       "imagen": [
         "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%2013.7/chisme1.jpeg"
       ],
