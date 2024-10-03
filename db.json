@@ -105,13 +105,14 @@
       "id": 8,
       "nombre": "Tazas Calabaza",
       "descripcion": "Taza con formato de calabaza, tamaño pocillo, perfecta para tomar un té, es un diseño exclusivo de Patata Cerámica",
-      "precio": 5500,
+      "precio": 11000,
       "imagen": [
-        "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/calabaza.jpeg"
+        "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/refs/heads/main/img/3.10/calabaza.jpeg",
+        "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/refs/heads/main/img/3.10/calabaza1.jpeg"
       ],
       "categoria": "Tazas",
-      "cantidad": 0,
-      "estado": false,
+      "cantidad": 4,
+      "estado": true,
       "destacado": false
     },
     {
@@ -270,12 +271,13 @@
       "id": 20,
       "nombre": "Stickers Patata",
       "descripcion": "Stickers de Patata Cerámica, perfectos para decorar tu computadora, celular, cuaderno, o lo que quieras. Aptos para Termo.",
-      "precio": 350,
+      "precio": 150,
       "imagen": [
-        "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/matestick.jpeg",
-        "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/culitostick.jpeg",
-        "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/diva.jpeg",
-        "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/estudio.jpeg"
+        "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/refs/heads/main/img/3.10/sticker/sticker.jpeg",
+        "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/refs/heads/main/img/3.10/sticker/sticker2.jpeg",
+        "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/refs/heads/main/img/3.10/sticker/sticker3.jpeg",
+        "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/refs/heads/main/img/3.10/sticker/sticker4.jpeg",
+        "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/refs/heads/main/img/3.10/sticker/sticker5.jpeg"
       ],
       "categoria": "Merchandising",
       "cantidad": 1,
@@ -301,12 +303,12 @@
       "id": 22,
       "nombre": "Cenicero 'No me olvides'",
       "descripcion": "Cenicero floreado, perfecto para los amantes de la naturaleza y de fumar.",
-      "precio": 8000,
+      "precio": 5000,
       "imagen": [
         "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%2030.6/blue.jpeg",
         "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/nomeolvides.jpeg"
       ],
-      "categoria": "Outlet",
+      "categoria": "Ceniceros",
       "cantidad": 1,
       "estado": true,
       "destacado": false
@@ -471,13 +473,13 @@
       "id": 33,
       "nombre": "Cenicero 'Retro'",
       "descripcion": "Cenicero de cerámica, perfecto para los amantes de lo retro y de fumar.",
-      "precio": 8000,
+      "precio": 5000,
       "imagen": [
         "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%2030.6/retro.jpeg",
         "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%2016/1/ceniceroretro2.jpg",
         "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%2016/1/ceniceroretro.jpg"
       ],
-      "categoria": "Outlet",
+      "categoria": "Ceniceros",
       "cantidad": 1,
       "estado": true,
       "destacado": false
@@ -1210,11 +1212,12 @@
       "id": 86,
       "nombre": "Mate 'Gatito'",
       "descripcion": "Mate pintado a mano, con diseño de gato oscuros. Viene con bombilla",
-      "precio": 9500,
+      "precio": 11000,
       "imagen": [
+        "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/refs/heads/main/img/3.10/pachalala.jpeg",
         "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%2013.7/mategatito1.jpeg"
       ],
-      "categoria": "Mate",
+      "categoria": "Mates",
       "cantidad": 1,
       "estado": true,
       "destacado": false
@@ -1223,11 +1226,11 @@
       "id": 87,
       "nombre": "Mate 'Chismecito'",
       "descripcion": "Mate pintado a mano, con diseño para todos los chismosos. Viene con bombilla",
-      "precio": 9500,
+      "precio": 11000,
       "imagen": [
         "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%2013.7/chisme1.jpeg"
       ],
-      "categoria": "Mate",
+      "categoria": "Mates",
       "cantidad": 1,
       "estado": true,
       "destacado": false
@@ -1256,6 +1259,47 @@
         "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/30.7/agui1.jpeg"
       ],
       "categoria": "Tazas",
+      "cantidad": 1,
+      "estado": true,
+      "destacado": false
+    },
+    {
+      "id": 90,
+      "nombre": "Mate Uchi 'Noche Gatuna'",
+      "descripcion": "Mate pintado a mano, con diseño de noche gatuna. Viene con bombilla",
+      "precio": 12000,
+      "imagen": [
+        "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/refs/heads/main/img/3.10/mateUchi.jpeg"
+      ],
+      "categoria": "Mates",
+      "cantidad": 1,
+      "estado": true,
+      "destacado": false
+    },
+    {
+      "id": 91,
+      "nombre": "Portavela 'Michi Halloween'",
+      "descripcion": "Portavela pintado a mano, con diseño de gato en halloween.",
+      "precio": 7000,
+      "imagen": [
+        "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/refs/heads/main/img/3.10/portaHalloween2.jpeg",
+        "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/refs/heads/main/img/3.10/portaHalloween.jpeg"
+      ],
+      "categoria": "Portavelas",
+      "cantidad": 1,
+      "estado": true,
+      "destacado": false
+    },
+    {
+      "id": 92,
+      "nombre": "Portavela 'Michi Panzon'",
+      "descripcion": "Portavela pintado a mano, con diseño de gato panzon.",
+      "precio": 8500,
+      "imagen": [
+        "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/refs/heads/main/img/3.10/portaPanzon.jpeg",
+        "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/refs/heads/main/img/3.10/portaPanzon2.jpeg"
+      ],
+      "categoria": "Portavelas",
       "cantidad": 1,
       "estado": true,
       "destacado": false
