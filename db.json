@@ -662,7 +662,7 @@
       ],
       "categoria": "Pipas",
       "cantidad": 1,
-      "estado": true,
+      "estado": false,
       "destacado": false
     },
     {
@@ -690,7 +690,7 @@
       ],
       "categoria": "Pipas",
       "cantidad": 1,
-      "estado": true,
+      "estado": false,
       "destacado": false
     },
     {
@@ -928,7 +928,7 @@
       ],
       "categoria": "Ceniceros",
       "cantidad": 1,
-      "estado": true,
+      "estado": false,
       "destacado": false
     },
     {
@@ -1212,7 +1212,7 @@
       "id": 86,
       "nombre": "Mate 'Gatito'",
       "descripcion": "Mate pintado a mano, con diseño de gato oscuros. Viene con bombilla",
-      "precio": 11000,
+      "precio": 9500,
       "imagen": [
         "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/refs/heads/main/img/3.10/pachalala.jpeg",
         "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%2013.7/mategatito1.jpeg"
@@ -1226,7 +1226,7 @@
       "id": 87,
       "nombre": "Mate 'Chismecito'",
       "descripcion": "Mate pintado a mano, con diseño para todos los chismosos. Viene con bombilla",
-      "precio": 11000,
+      "precio": 9500,
       "imagen": [
         "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%2013.7/chisme1.jpeg"
       ],
@@ -1273,7 +1273,7 @@
       ],
       "categoria": "Mates",
       "cantidad": 1,
-      "estado": true,
+      "estado": false,
       "destacado": false
     },
     {
