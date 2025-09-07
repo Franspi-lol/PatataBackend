@@ -43,7 +43,7 @@
       ],
       "categoria": "Tazas",
       "cantidad": 1,
-      "estado": true,
+      "estado": false,
       "destacado": false
     },
     {
@@ -64,12 +64,12 @@
       "id": 5,
       "nombre": "Pocillo Winnie 'Better Days'",
       "descripcion": "Taza tipo reproductor musical, con manchas de colores y flores hippies negras. Tamaño pocillo, perfecta para un Espresso.",
-      "precio": 9000,
+      "precio": 7000,
       "imagen": [
         "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%208.6/betterDays.jpeg",
         "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%208.6/betterDays1.jpeg"
       ],
-      "categoria": "Tazas",
+      "categoria": "Outlet",
       "cantidad": 1,
       "estado": true,
       "destacado": false
@@ -105,12 +105,12 @@
       "id": 8,
       "nombre": "Tazas Calabaza",
       "descripcion": "Taza con formato de calabaza, tamaño pocillo, perfecta para tomar un té, es un diseño exclusivo de Patata Cerámica",
-      "precio": 11000,
+      "precio": 10000,
       "imagen": [
         "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/refs/heads/main/img/3.10/calabaza.jpeg",
         "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/refs/heads/main/img/3.10/calabaza1.jpeg"
       ],
-      "categoria": "Tazas",
+      "categoria": "Outlet",
       "cantidad": 4,
       "estado": true,
       "destacado": false
@@ -141,7 +141,7 @@
       ],
       "categoria": "Mates",
       "cantidad": 1,
-      "estado": true,
+      "estado": false,
       "destacado": false
     },
     {
@@ -257,12 +257,12 @@
       "id": 19,
       "nombre": "Frasquito 'Sapito Brujo'",
       "descripcion": "Frasquito esotérico, con sapito brujo, ideal para guardar clips, invisibles, cigarros o lo que quieras, perfecto para los amantes de lo esotérico.",
-      "precio": 10000,
+      "precio": 8000,
       "imagen": [
         "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%208.6/sapito.jpeg",
         "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%208.6/sapito1.jpeg"
       ],
-      "categoria": "Frasquitos",
+      "categoria": "Outlet",
       "cantidad": 1,
       "estado": true,
       "destacado": false
@@ -310,7 +310,7 @@
       ],
       "categoria": "Ceniceros",
       "cantidad": 1,
-      "estado": true,
+      "estado": false,
       "destacado": false
     },
     {
@@ -338,7 +338,7 @@
         "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%2016/1/hornitocloudy4.jpg",
         "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%2016/1/hornitorainbow2.jpg"
       ],
-      "categoria": "Hornitos",
+      "categoria": "Outlet",
       "cantidad": 1,
       "estado": true,
       "destacado": false
@@ -353,7 +353,7 @@
         "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%2010.4/manifestar2.jpeg",
         "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%2010.4/manifestar3.jpeg"
       ],
-      "categoria": "Hornitos",
+      "categoria": "Outlet",
       "cantidad": 1,
       "estado": true,
       "destacado": false
@@ -370,7 +370,7 @@
       ],
       "categoria": "Portasahumerios",
       "cantidad": 2,
-      "estado": true,
+      "estado": false,
       "destacado": false
     },
     {
@@ -421,7 +421,7 @@
       ],
       "categoria": "Mates",
       "cantidad": 1,
-      "estado": true,
+      "estado": false,
       "destacado": false
     },
     {
@@ -466,7 +466,7 @@
       ],
       "categoria": "Portasahumerios",
       "cantidad": 1,
-      "estado": true,
+      "estado": false,
       "destacado": false
     },
     {
@@ -481,7 +481,7 @@
       ],
       "categoria": "Ceniceros",
       "cantidad": 1,
-      "estado": true,
+      "estado": false,
       "destacado": false
     },
     {
@@ -620,7 +620,7 @@
       ],
       "categoria": "Chucherias",
       "cantidad": 1,
-      "estado": true,
+      "estado": false,
       "destacado": false
     },
     {
@@ -648,7 +648,7 @@
       ],
       "categoria": "Chucherias",
       "cantidad": 4,
-      "estado": true,
+      "estado": false,
       "destacado": false
     },
     {
@@ -727,13 +727,13 @@
       "id": 51,
       "nombre": "Mamushka Totoro",
       "descripcion": "Mamushka de cerámica, perfecto para decorar tu hogar.",
-      "precio": 6700,
+      "precio": 6000,
       "imagen": [
         "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%2027.4/mamushka1.jpeg",
         "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%2027.4/mamushka2.jpeg",
         "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%2027.4/mamushka3.jpeg"
       ],
-      "categoria": "Chucherias",
+      "categoria": "Outlet",
       "cantidad": 1,
       "estado": true,
       "destacado": false
@@ -794,7 +794,7 @@
       ],
       "categoria": "Bowls",
       "cantidad": 1,
-      "estado": true,
+      "estado": false,
       "destacado": false
     },
     {
@@ -808,7 +808,7 @@
       ],
       "categoria": "Bowls",
       "cantidad": 1,
-      "estado": true,
+      "estado": false,
       "destacado": false
     },
     {
@@ -835,7 +835,7 @@
       ],
       "categoria": "Chucherias",
       "cantidad": 4,
-      "estado": true,
+      "estado": false,
       "destacado": false
     },
     {
@@ -848,7 +848,7 @@
       ],
       "categoria": "Chucherias",
       "cantidad": 2,
-      "estado": true,
+      "estado": false,
       "destacado": false
     },
     {
@@ -874,7 +874,7 @@
       ],
       "categoria": "Chucherias",
       "cantidad": 3,
-      "estado": true,
+      "estado": false,
       "destacado": false
     },
     {
@@ -887,18 +887,18 @@
       ],
       "categoria": "Chucherias",
       "cantidad": 1,
-      "estado": true,
+      "estado": false,
       "destacado": false
     },
     {
       "id": 63,
       "nombre": "Iman Estampilla 'Born this way'",
       "descripcion": "Iman de cerámica en formato de estampilla, perfecto para decorar tu heladera.",
-      "precio": 3000,
+      "precio": 3500,
       "imagen": [
         "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%2020.5/estampilla1.jpeg"
       ],
-      "categoria": "Chucherias",
+      "categoria": "Outlet",
       "cantidad": 1,
       "estado": true,
       "destacado": false
@@ -907,12 +907,12 @@
       "id": 64,
       "nombre": "Pocillo Winnie 'Blackie'",
       "descripcion": "Pocillo pintado a mano, con diseño de manchas negras.",
-      "precio": 9000,
+      "precio": 7000,
       "imagen": [
         "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%208.6/blackie.jpeg",
         "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%208.6/blackie1.jpeg"
       ],
-      "categoria": "Tazas",
+      "categoria": "Outlet",
       "cantidad": 1,
       "estado": true,
       "destacado": false
@@ -942,7 +942,7 @@
       ],
       "categoria": "Ceniceros",
       "cantidad": 1,
-      "estado": true,
+      "estado": false,
       "destacado": false
     },
     {
@@ -956,7 +956,7 @@
       ],
       "categoria": "Tazas",
       "cantidad": 1,
-      "estado": true,
+      "estado": false,
       "destacado": false
     },
     {
@@ -970,7 +970,7 @@
       ],
       "categoria": "Tazas",
       "cantidad": 1,
-      "estado": true,
+      "estado": false,
       "destacado": false
     },
     {
@@ -998,7 +998,7 @@
       ],
       "categoria": "Tazas",
       "cantidad": 1,
-      "estado": true,
+      "estado": false,
       "destacado": false
     },
     {
@@ -1012,7 +1012,7 @@
       ],
       "categoria": "Promociones",
       "cantidad": 1,
-      "estado": true,
+      "estado": false,
       "destacado": false
     },
     {
@@ -1026,7 +1026,7 @@
       ],
       "categoria": "Hornitos",
       "cantidad": 1,
-      "estado": true,
+      "estado": false,
       "destacado": false
     },
     {
@@ -1040,7 +1040,7 @@
       ],
       "categoria": "Chucherias",
       "cantidad": 4,
-      "estado": true,
+      "estado": false,
       "destacado": false
     },
     {
@@ -1054,19 +1054,19 @@
       ],
       "categoria": "Chucherias",
       "cantidad": 1,
-      "estado": true,
+      "estado": false,
       "destacado": false
     },
     {
       "id": 75,
       "nombre": "Azucarera 'Flowers'",
       "descripcion": "Azucarera de cerámica, perfecta para decorar tu hogar.",
-      "precio": 12000,
+      "precio": 10000,
       "imagen": [
         "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%208.6/azucar.jpeg",
         "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%208.6/azucar1.jpeg"
       ],
-      "categoria": "Chucherias",
+      "categoria": "Outlet",
       "cantidad": 1,
       "estado": true,
       "destacado": false
@@ -1095,7 +1095,7 @@
       ],
       "categoria": "Promociones",
       "cantidad": 1,
-      "estado": true,
+      "estado": false,
       "destacado": false
     },
     {
@@ -1108,7 +1108,7 @@
       ],
       "categoria": "Promociones",
       "cantidad": 1,
-      "estado": true,
+      "estado": false,
       "destacado": false
     },
     {
@@ -1121,7 +1121,7 @@
       ],
       "categoria": "Promociones",
       "cantidad": 1,
-      "estado": true,
+      "estado": false,
       "destacado": false
     },
     {
@@ -1136,7 +1136,7 @@
       ],
       "categoria": "Promociones",
       "cantidad": 1,
-      "estado": true,
+      "estado": false,
       "destacado": false
     },
     {
@@ -1151,7 +1151,7 @@
       ],
       "categoria": "Bowls",
       "cantidad": 1,
-      "estado": true,
+      "estado": false,
       "destacado": false
     },
     {
@@ -1165,7 +1165,7 @@
       ],
       "categoria": "Tazas",
       "cantidad": 1,
-      "estado": true,
+      "estado": false,
       "destacado": false
     },
     {
@@ -1199,11 +1199,11 @@
       "id": 85,
       "nombre": "Taza 'Introspeccion'",
       "descripcion": "Taza pintada a mano, con diseño para pensar.",
-      "precio": 12000,
+      "precio": 9000,
       "imagen": [
         "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%2013.7/introspeccion.jpeg"
       ],
-      "categoria": "Tazas",
+      "categoria": "Outlet",
       "cantidad": 1,
       "estado": true,
       "destacado": false
@@ -1219,7 +1219,7 @@
       ],
       "categoria": "Mates",
       "cantidad": 1,
-      "estado": true,
+      "estado": false,
       "destacado": false
     },
     {
@@ -1232,19 +1232,19 @@
       ],
       "categoria": "Mates",
       "cantidad": 1,
-      "estado": true,
+      "estado": false,
       "destacado": false
     },
     {
       "id": 88,
       "nombre": "Azucarera 'Hippie'",
       "descripcion": "Azucarera pintada a mano, con diseño hippie.",
-      "precio": 12000,
+      "precio": 10000,
       "imagen": [
         "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/30.7/zucker.jpeg",
         "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/30.7/zucker1.jpeg"
       ],
-      "categoria": "Chucherias",
+      "categoria": "Outlet",
       "cantidad": 1,
       "estado": true,
       "destacado": false
@@ -1260,7 +1260,7 @@
       ],
       "categoria": "Tazas",
       "cantidad": 1,
-      "estado": true,
+      "estado": false,
       "destacado": false
     },
     {
@@ -1287,19 +1287,19 @@
       ],
       "categoria": "Portavelas",
       "cantidad": 1,
-      "estado": true,
+      "estado": false,
       "destacado": false
     },
     {
       "id": 92,
       "nombre": "Portavela 'Michi Panzon'",
       "descripcion": "Portavela pintado a mano, con diseño de gato panzon.",
-      "precio": 8500,
+      "precio": 6000,
       "imagen": [
         "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/refs/heads/main/img/3.10/portaPanzon.jpeg",
         "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/refs/heads/main/img/3.10/portaPanzon2.jpeg"
       ],
-      "categoria": "Portavelas",
+      "categoria": "Outlet",
       "cantidad": 1,
       "estado": true,
       "destacado": false
