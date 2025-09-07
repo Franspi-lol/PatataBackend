@@ -857,7 +857,8 @@
       "descripcion": "Pins de cerámica, perfectos para decorar tu ropa.",
       "precio": 3000,
       "imagen": [
-        "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%2020.5/pins.jpeg"
+        "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/7-9-25/pin1.jpeg",
+        "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/7-9-25/pin2.jpeg"
       ],
       "categoria": "Chucherias",
       "cantidad": 6,
@@ -1303,6 +1304,196 @@
       "cantidad": 1,
       "estado": true,
       "destacado": false
+    },
+    {
+        "id": 93,
+        "nombre": "Repasador",
+        "descripcion": "Repasador cocido a mano y pintado en serigrafia, perfecto para decorar tu cocina.",
+        "precio": 4000,
+        "imagen": [
+          "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/refs/heads/main/img/7-9-25/repasador1.jpeg",
+          "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/refs/heads/main/img/7-9-25/repasador2.jpeg"
+        ],
+        "categoria": "Textiles",
+        "cantidad": 2,
+        "estado": true,
+        "destacado": false
+    },
+    {
+        "id": 94,
+        "nombre": "Maxirepasador",
+        "descripcion": "Maxirepasador cocido a mano y pintado en serigrafia, perfecto para decorar tu cocina.",
+        "precio": 8500,
+        "imagen": [
+            "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/refs/heads/main/img/7-9-25/maxi1.jpeg",
+            "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/refs/heads/main/img/7-9-25/maxi2.jpeg",
+            "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/refs/heads/main/img/7-9-25/maxi3.jpeg",
+            "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/refs/heads/main/img/7-9-25/maxi4.jpeg"
+        ],
+        "categoria": "Textiles",
+        "cantidad": 4,
+        "estado": true,
+        "destacado": false
+    },
+    {
+        "id": 95,
+        "nombre": "Tote Bag",
+        "descripcion": "Tote Bag pintada a mano, perfecta para terminar tu look.",
+        "precio": 9000,
+        "imagen": [
+            "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/refs/heads/main/img/7-9-25/tote1.jpeg",
+            "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/refs/heads/main/img/7-9-25/tote2.jpeg",
+            "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/refs/heads/main/img/7-9-25/tote3.jpeg"
+        ],
+        "categoria": "Textiles",
+        "cantidad": 3,
+        "estado": true,
+        "destacado": false
+    },
+    {
+        "id": 96,
+        "nombre": "Body Splash 'Flores Blancas'",
+        "descripcion": "Body Splash artesanal, con aroma a flores blancas. Ideal para usar en cualquier momento del día, ya que su aroma es suave y fresco.",
+        "precio": 4500,
+        "imagen": [
+            "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/refs/heads/main/img/7-9-25/body.jpeg"
+        ],
+        "categoria": "By Gabi Abeal",
+        "cantidad": 1,
+        "estado": true,
+        "destacado": false
+    },
+    {
+        "id": 97,
+        "nombre": "Agua Florida",
+        "descripcion": "Agua Florida artesanal, con aroma cítrico y floral. Ideal para usar en vos.",
+        "precio": 5500,
+        "imagen": [
+            "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/refs/heads/main/img/7-9-25/agua.jpeg"
+        ],
+        "categoria": "By Gabi Abeal",
+        "cantidad": 1,
+        "estado": true,
+        "destacado": false
+    },
+    {
+        "id": 98,
+        "nombre": "Palo Santo",
+        "descripcion": "Palo Santo peruano 100% natural, ideal para limpiar energías negativas y atraer buenas vibras. Viene en bolsas de 30gr.",
+        "precio": 2800,
+        "imagen": [
+            "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/refs/heads/main/img/7-9-25/palo.jpeg"
+        ],
+        "categoria": "By Gabi Abeal",
+        "cantidad": 1,
+        "estado": true,
+        "destacado": false
+    },
+    {
+        "id": 99,
+        "nombre": "Body Splash 'NagChampa'",
+        "descripcion": "Body Splash artesanal, con aroma a NagChampa. Ideal para usar en cualquier momento del día.",
+        "precio": 4500,
+        "imagen": [
+            "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/refs/heads/main/img/7-9-25/body2.jpeg"
+        ],
+        "categoria": "By Gabi Abeal",
+        "cantidad": 1,
+        "estado": true,
+        "destacado": false
+    },
+    {
+        "id": 100,
+        "nombre": "Perfumina 'Blanche'",
+        "descripcion": "Perfumina artesanal, con aroma natural.",
+        "precio": 5000,
+        "imagen": [
+            "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/refs/heads/main/img/7-9-25/blanche.jpeg"
+        ],
+        "categoria": "By Gabi Abeal",
+        "cantidad": 1,
+        "estado": true,
+        "destacado": false
+    },
+    {
+        "id": 101,
+        "nombre": "Abrelibros 'Bee'",
+        "descripcion": "Abrelibros artesanal, con diseño de abeja. Ideal para los amantes de la lectura.",
+        "precio": 8000,
+        "imagen": [
+            "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/refs/heads/main/img/7-9-25/abeja.jpeg"
+        ],
+        "categoria": "Chucherias",
+        "cantidad": 1,
+        "estado": true,
+        "destacado": false
+    },
+    {
+        "id": 102,
+        "nombre": "Abrelibros 'MDQ'",
+        "descripcion": "Abrelibros artesanal, con diseño Playero. Ideal para los amantes de la lectura.",
+        "precio": 8000,
+        "imagen": [
+            "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/refs/heads/main/img/7-9-25/mdq.jpeg"
+        ],
+        "categoria": "Chucherias",
+        "cantidad": 1,
+        "estado": true,
+        "destacado": false
+    },
+    {
+        "id": 103,
+        "nombre": "Abrelibros 'Orange Flower'",
+        "descripcion": "Abrelibros artesanal, con diseño floreado. Ideal para los amantes de la lectura.",
+        "precio": 8000,
+        "imagen": [
+            "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/refs/heads/main/img/7-9-25/flor.jpeg"
+        ],
+        "categoria": "Chucherias",
+        "cantidad": 1,
+        "estado": true,
+        "destacado": false
+    },
+    {
+        "id": 104,
+        "nombre": "Abrelibros 'Flower'",
+        "descripcion": "Abrelibros artesanal, con diseño en relieve. Ideal para los amantes de la lectura.",
+        "precio": 8000,
+        "imagen": [
+            "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/refs/heads/main/img/7-9-25/flower.jpeg"
+        ],
+        "categoria": "Chucherias",
+        "cantidad": 1,
+        "estado": true,
+        "destacado": false
+    },
+    {
+        "id": 105,
+        "nombre": "Yerbero 'Playadito'",
+        "descripcion": "Yerbero artesanal, con diseño inspirado en Playadito. Ideal para los amantes del mate.",
+        "precio": 50000,
+        "imagen": [
+            "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/refs/heads/main/img/7-9-25/playadito1.jpeg",
+            "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/refs/heads/main/img/7-9-25/playadito2.jpeg"
+        ],
+        "categoria": "Yerberos",
+        "cantidad": 1,
+        "estado": true,
+        "destacado": false
+    },
+    {
+        "id": 106,
+        "nombre": "Yerbero 'Amanda'",
+        "descripcion": "Yerbero artesanal, con diseño de Amanda. Ideal para los amantes del mate.",
+        "precio": 55000,
+        "imagen": [
+            "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/refs/heads/main/img/7-9-25/amanda1.jpeg",
+            "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/refs/heads/main/img/7-9-25/amanda2.jpeg"
+        ],
+        "categoria": "Yerberos",
+        "cantidad": 1,
+        "estado": true,
+        "destacado": false
     }
   ]
 }
