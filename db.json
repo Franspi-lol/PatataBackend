@@ -1494,6 +1494,45 @@
         "cantidad": 1,
         "estado": true,
         "destacado": false
+    },
+    {
+        "id": 107,
+        "nombre": "Combo Bowls 'Cereal Killer'",
+        "descripcion": "Combo de 2 Bowls pintados a mano. Perfectos para los amantes de los cereales.",
+        "precio": 20000,
+        "imagen": [
+            "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/refs/heads/main/img/7-9-25/cereal.jpeg"
+        ],
+        "categoria": "Outlet",
+        "cantidad": 1,
+        "estado": true,
+        "destacado": false
+    },
+    {
+        "id": 108,
+        "nombre": "Tacita 'Michi al Sol'",
+        "descripcion": "Tacita pintada a mano, con diseño de gato al sol. Perfecta para los amantes de los gatos.",
+        "precio": 7000,
+        "imagen": [
+            "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/refs/heads/main/img/7-9-25/michi.jpeg"
+        ],
+        "categoria": "Outlet",
+        "cantidad": 1,
+        "estado": true,
+        "destacado": false
+    },
+    {
+        "id": 109,
+        "nombre": "Portasahumerios",
+        "descripcion": "Portasahumerios pintado a mano.",
+        "precio": 8000,
+        "imagen": [
+            "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/refs/heads/main/img/7-9-25/porta.jpeg"
+        ],
+        "categoria": "Portasahumerios",
+        "cantidad": 1,
+        "estado": true,
+        "destacado": false
     }
   ]
 }
