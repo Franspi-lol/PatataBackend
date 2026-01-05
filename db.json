@@ -1540,6 +1540,9 @@
       "descripcion": "Portavelas para colgar en la pared (con clavo) Disponible en color azul, rojo y verde petroleo",
       "precio": 12000,
       "imagen": [
+        "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/refs/heads/main/img/4-1-26/portavelasFlor1.jpeg",
+        "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/refs/heads/main/img/4-1-26/portavelasFlor2.jpeg",
+        "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/refs/heads/main/img/4-1-26/portavelasFlor3.jpeg"
         ],
       "categoria": "Portavelas",
       "cantidad": 1,
@@ -1552,6 +1555,7 @@
       "descripcion": "Pieza de ceramica en forma de tomate para que apoyes tus utensillos de cocina sucios y no ensuciar tu mesada",
       "precio": 12000,
       "imagen": [
+        "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/refs/heads/main/img/4-1-26/tomato.jpeg"
       ],
       "categoria": "Chucherias",
       "cantidad": 1,
@@ -1564,6 +1568,7 @@
       "descripcion": "Salero y pimentero en forma de aceituna. En su base tienen un corcho para que puedas recargarlos",
       "precio": 18000,
       "imagen": [
+        "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/refs/heads/main/img/4-1-26/aceituna.jpeg"
       ],
       "categoria": "Chucherias",
       "cantidad": 1,
@@ -1576,6 +1581,7 @@
       "descripcion": "Candelabro en forma de sol que iluminen tus noches",
       "precio": 12000,
       "imagen": [
+        "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/refs/heads/main/img/4-1-26/sol.jpeg"
       ],
       "categoria": "Portavelas",
       "cantidad": 1,
@@ -1588,6 +1594,7 @@
       "descripcion": "Altar de pared para velita de noche en forma de sol. Color naranja y detalles en esmalte amarillo",
       "precio": 15000,
       "imagen": [
+        "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/refs/heads/main/img/4-1-26/altarSol.jpeg"
       ],
       "categoria": "Portavelas",
       "cantidad": 1,
@@ -1600,6 +1607,7 @@
       "descripcion": "Altar de pared para velita de noche en forma de estrella.",
       "precio": 17000,
       "imagen": [
+        "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/refs/heads/main/img/4-1-26/altarEstrella.jpeg"
       ],
       "categoria": "Portavelas",
       "cantidad": 1,
@@ -1612,6 +1620,7 @@
       "descripcion": "Collar de ceramica en forma de flor. El liston infinito engamuzado. Combinaciones Flor Roja- Listón Negro Flor Roja - Listón Rosa Flor Blanca- Listón Negro Flor Blanca - Listón Rosa Flor Negra - Listón Negro Flor Jaspeada - Listón Marrón",
       "precio": 8500,
       "imagen": [
+        "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/refs/heads/main/img/4-1-26/collarInfinito.jpeg"
       ],
       "categoria": "Chucherias",
       "cantidad": 1,
@@ -1624,6 +1633,7 @@
       "descripcion": "Caja sorpresa que contiene una pieza de ceramica, stickers y golosinas. Perfecto para un detalle especial",
       "precio": 15000,
       "imagen": [
+        "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/refs/heads/main/img/4-1-26/box.jpeg"
       ],
       "categoria": "Chucherias",
       "cantidad": 1,
@@ -1636,6 +1646,7 @@
       "descripcion": "Maceta tamaño grande, viene con desagote. Color verde",
       "precio": 18000,
       "imagen": [
+        "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/refs/heads/main/img/4-1-26/maceta.jpeg"
       ],
       "categoria": "Chucherias",
       "cantidad": 1,
@@ -1648,6 +1659,9 @@
       "descripcion": "Paquete de cerámica inspirado en el paquete de galletitas Terepin. Contiene 1 galletita de cerámica, perfectas para decorar tu hogar.",
       "precio": 30000,
       "imagen": [
+        "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/refs/heads/main/img/4-1-26/terepin1.jpeg",
+        "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/refs/heads/main/img/4-1-26/terepin2.jpeg",
+        "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/refs/heads/main/img/4-1-26/terepin3.jpeg"
       ],
       "categoria": "Chucherias",
       "cantidad": 1,
