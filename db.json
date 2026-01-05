@@ -3,7 +3,7 @@
     {
       "id": 1,
       "nombre": "Pedidos personalizados",
-      "descripcion": "¿Buscas la pieza perfecta que complemente tu hogar y refleje tu estilo único? ¡No busques más! Una pieza diseñada exclusivamente para vos. Del 1 al 3 de cada mes tomo pedidos, por fuera de esa fecha los pedidos no se recepcionan. Me contas tu idea, y con el 50% de la seña empezó a trabajar. Los pedidos personalizados tienen un tiempo de entrega estimado de 21 días.",
+      "descripcion": "Buscas una pieza única? Los perdidos personalizados son la mejor opción para vos! me comentas tu idea, me envías fotos de referencia si las tenes, y después de algunas preguntas te digo si es factible tu idea y con un 50% del presupuesto empiezo a confeccionarla. Los pedidos personalizados tienen una demora de 20/30 días según diversos factores. Anímate a tener en tus manos eso que estás imaginando!",
       "precio": 0,
       "imagen": [
         "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/perso7.jpeg",
@@ -71,7 +71,7 @@
       ],
       "categoria": "Outlet",
       "cantidad": 1,
-      "estado": true,
+      "estado": false,
       "destacado": false
     },
     {
@@ -112,7 +112,7 @@
       ],
       "categoria": "Outlet",
       "cantidad": 4,
-      "estado": true,
+      "estado": false,
       "destacado": false
     },
     {
@@ -264,7 +264,7 @@
       ],
       "categoria": "Outlet",
       "cantidad": 1,
-      "estado": true,
+      "estado": false,
       "destacado": false
     },
     {
@@ -340,7 +340,7 @@
       ],
       "categoria": "Outlet",
       "cantidad": 1,
-      "estado": true,
+      "estado": false,
       "destacado": false
     },
     {
@@ -355,7 +355,7 @@
       ],
       "categoria": "Outlet",
       "cantidad": 1,
-      "estado": true,
+      "estado": false,
       "destacado": false
     },
     {
@@ -735,7 +735,7 @@
       ],
       "categoria": "Outlet",
       "cantidad": 1,
-      "estado": true,
+      "estado": false,
       "destacado": false
     },
     {
@@ -901,7 +901,7 @@
       ],
       "categoria": "Outlet",
       "cantidad": 1,
-      "estado": true,
+      "estado": false,
       "destacado": false
     },
     {
@@ -915,7 +915,7 @@
       ],
       "categoria": "Outlet",
       "cantidad": 1,
-      "estado": true,
+      "estado": false,
       "destacado": false
     },
     {
@@ -1069,7 +1069,7 @@
       ],
       "categoria": "Outlet",
       "cantidad": 1,
-      "estado": true,
+      "estado": false,
       "destacado": false
     },
     {
@@ -1206,7 +1206,7 @@
       ],
       "categoria": "Outlet",
       "cantidad": 1,
-      "estado": true,
+      "estado": false,
       "destacado": false
     },
     {
@@ -1247,7 +1247,7 @@
       ],
       "categoria": "Outlet",
       "cantidad": 1,
-      "estado": true,
+      "estado": false,
       "destacado": false
     },
     {
@@ -1302,15 +1302,16 @@
       ],
       "categoria": "Outlet",
       "cantidad": 1,
-      "estado": true,
+      "estado": false,
       "destacado": false
     },
     {
         "id": 93,
         "nombre": "Repasador",
-        "descripcion": "Repasador cocido a mano y pintado en serigrafia, perfecto para decorar tu cocina.",
-        "precio": 4000,
+        "descripcion": "Repasador cocido a mano y pintado en serigrafia, perfecto para decorar tu cocina. Repasador grande 8500, Chiquito 6000",
+        "precio": 6000,
         "imagen": [
+          "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/refs/heads/main/img/7-9-25/maxi1.jpeg",
           "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/refs/heads/main/img/7-9-25/repasador1.jpeg",
           "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/refs/heads/main/img/7-9-25/repasador2.jpeg"
         ],
@@ -1323,7 +1324,7 @@
         "id": 94,
         "nombre": "Maxirepasador",
         "descripcion": "Maxirepasador cocido a mano y pintado en serigrafia, perfecto para decorar tu cocina.",
-        "precio": 8500,
+        "precio": 6000,
         "imagen": [
             "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/refs/heads/main/img/7-9-25/maxi1.jpeg",
             "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/refs/heads/main/img/7-9-25/maxi2.jpeg",
@@ -1332,7 +1333,7 @@
         ],
         "categoria": "Textiles",
         "cantidad": 4,
-        "estado": true,
+        "estado": false,
         "destacado": false
     },
     {
@@ -1366,8 +1367,8 @@
     {
         "id": 97,
         "nombre": "Agua Florida",
-        "descripcion": "Agua Florida artesanal, con aroma cítrico y floral. Ideal para usar en vos.",
-        "precio": 5500,
+        "descripcion": "Agua Florida artesanal, con aroma cítrico y floral. Ideal para usar en vos. Mediana 5000, Grande 8000",
+        "precio": 5000,
         "imagen": [
             "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/refs/heads/main/img/7-9-25/agua.jpeg"
         ],
@@ -1380,7 +1381,7 @@
         "id": 98,
         "nombre": "Palo Santo",
         "descripcion": "Palo Santo peruano 100% natural, ideal para limpiar energías negativas y atraer buenas vibras. Viene en bolsas de 30gr.",
-        "precio": 2800,
+        "precio": 3000,
         "imagen": [
             "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/refs/heads/main/img/7-9-25/palo.jpeg"
         ],
@@ -1412,7 +1413,7 @@
         ],
         "categoria": "By Gabi Abeal",
         "cantidad": 1,
-        "estado": true,
+        "estado": false,
         "destacado": false
     },
     {
@@ -1478,7 +1479,7 @@
         ],
         "categoria": "Yerberos",
         "cantidad": 1,
-        "estado": true,
+        "estado": false,
         "destacado": false
     },
     {
@@ -1492,7 +1493,7 @@
         ],
         "categoria": "Yerberos",
         "cantidad": 1,
-        "estado": true,
+        "estado": false,
         "destacado": false
     },
     {
@@ -1505,7 +1506,7 @@
         ],
         "categoria": "Outlet",
         "cantidad": 1,
-        "estado": true,
+        "estado": false,
         "destacado": false
     },
     {
@@ -1518,14 +1519,14 @@
         ],
         "categoria": "Outlet",
         "cantidad": 1,
-        "estado": true,
+        "estado": false,
         "destacado": false
     },
     {
         "id": 109,
         "nombre": "Portasahumerios",
         "descripcion": "Portasahumerios pintado a mano.",
-        "precio": 8000,
+        "precio": 5000,
         "imagen": [
             "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/refs/heads/main/img/7-9-25/porta.jpeg"
         ],
@@ -1662,6 +1663,19 @@
         "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/refs/heads/main/img/4-1-26/terepin1.jpeg",
         "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/refs/heads/main/img/4-1-26/terepin2.jpeg",
         "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/refs/heads/main/img/4-1-26/terepin3.jpeg"
+      ],
+      "categoria": "Chucherias",
+      "cantidad": 1,
+      "estado": true,
+      "destacado": false
+    },
+    {
+      "id": 120,
+      "nombre": "Colador para fruta",
+      "descripcion": "Colador hecho en alfareria para lavar frutas pequeás y usarlo como bowl. Esmaltado con transparente satinado y borravino brillante",
+      "precio": 14000,
+      "imagen": [
+        "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/refs/heads/main/img/4-1-26/colador.jpg"
       ],
       "categoria": "Chucherias",
       "cantidad": 1,
