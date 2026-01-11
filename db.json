@@ -563,7 +563,7 @@
         "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%20420/bachicha1.jpeg",
         "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%20420/bachicha%202.jpeg"
       ],
-      "categoria": "Portavelas",
+      "categoria": "Utilitarios",
       "cantidad": 1,
       "estado": false,
       "destacado": false
@@ -577,7 +577,7 @@
         "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%20420/gato1.jpeg",
         "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%20420/gato2.jpeg"
       ],
-      "categoria": "Portavelas",
+      "categoria": "Utilitarios",
       "cantidad": 1,
       "estado": false,
       "destacado": false
@@ -591,7 +591,7 @@
         "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%20420/capi1.jpeg",
         "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%20420/capi2.jpeg"
       ],
-      "categoria": "Portavelas",
+      "categoria": "Utilitarios",
       "cantidad": 1,
       "estado": false,
       "destacado": false
@@ -605,7 +605,7 @@
         "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%20420/sincara1.jpeg",
         "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%20420/sincara2.jpeg"
       ],
-      "categoria": "Portavelas",
+      "categoria": "Utilitarios",
       "cantidad": 1,
       "estado": false,
       "destacado": false
@@ -1287,7 +1287,7 @@
         "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/refs/heads/main/img/3.10/portaHalloween2.jpeg",
         "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/refs/heads/main/img/3.10/portaHalloween.jpeg"
       ],
-      "categoria": "Portavelas",
+      "categoria": "Utilitarios",
       "cantidad": 1,
       "estado": false,
       "destacado": false
@@ -1550,7 +1550,7 @@
         "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/refs/heads/main/img/4-1-26/portavelasFlor2.jpeg",
         "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/refs/heads/main/img/4-1-26/portavelasFlor3.jpeg"
         ],
-      "categoria": "Portavelas",
+      "categoria": "Utilitarios",
       "cantidad": 1,
       "estado": true,
       "destacado": false
@@ -1563,7 +1563,7 @@
       "imagen": [
         "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/refs/heads/main/img/4-1-26/tomato.jpeg"
       ],
-      "categoria": "Chucherias",
+      "categoria": "Utilitarios",
       "cantidad": 1,
       "estado": true,
       "destacado": false
@@ -1576,7 +1576,7 @@
       "imagen": [
         "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/refs/heads/main/img/4-1-26/aceituna.jpeg"
       ],
-      "categoria": "Chucherias",
+      "categoria": "Utilitarios",
       "cantidad": 1,
       "estado": true,
       "destacado": false
@@ -1589,7 +1589,7 @@
       "imagen": [
         "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/refs/heads/main/img/4-1-26/sol.jpeg"
       ],
-      "categoria": "Portavelas",
+      "categoria": "Utilitarios",
       "cantidad": 1,
       "estado": true,
       "destacado": false
@@ -1602,7 +1602,7 @@
       "imagen": [
         "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/refs/heads/main/img/4-1-26/altarSol.jpeg"
       ],
-      "categoria": "Portavelas",
+      "categoria": "Utilitarios",
       "cantidad": 1,
       "estado": true,
       "destacado": false
@@ -1615,9 +1615,9 @@
       "imagen": [
         "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/refs/heads/main/img/4-1-26/altarEstrella.jpeg"
       ],
-      "categoria": "Portavelas",
+      "categoria": "Utilitarios",
       "cantidad": 1,
-      "estado": true,
+      "estado": false,
       "destacado": false
     },
     {
@@ -1654,7 +1654,7 @@
       "imagen": [
         "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/refs/heads/main/img/4-1-26/maceta.jpeg"
       ],
-      "categoria": "Chucherias",
+      "categoria": "Utilitarios",
       "cantidad": 1,
       "estado": true,
       "destacado": false
