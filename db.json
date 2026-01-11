@@ -368,7 +368,7 @@
         "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%2016/1/sahurainbow.jpg",
         "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%2016/1/sahurainbow2.jpg"
       ],
-      "categoria": "Portasahumerios",
+      "categoria": "Chucherias",
       "cantidad": 2,
       "estado": false,
       "destacado": false
@@ -450,7 +450,7 @@
         "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%2016/1/IMG-20240116-WA0044.jpg",
         "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%2016/1/sahucherry.jpg"
       ],
-      "categoria": "Portasahumerios",
+      "categoria": "Chucherias",
       "cantidad": 0,
       "estado": false,
       "destacado": false
@@ -464,7 +464,7 @@
         "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%2016/1/coquette.jpg",
         "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/img%2016/1/coquette2.jpg"
       ],
-      "categoria": "Portasahumerios",
+      "categoria": "Chucherias",
       "cantidad": 1,
       "estado": false,
       "destacado": false
@@ -857,7 +857,9 @@
       "descripcion": "Pins de cerámica, perfectos para decorar tu ropa.",
       "precio": 3500,
       "imagen": [
-
+        "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/refs/heads/main/img/11-1/Pin1.jpeg",
+        "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/refs/heads/main/img/11-1/Pin2.jpeg",
+        "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/refs/heads/main/img/11-1/Pin3.jpeg"
       ],
       "categoria": "Chucherias",
       "cantidad": 6,
@@ -1423,7 +1425,8 @@
         "descripcion": "Abrelibros artesanal, con diseño de abeja. Ideal para los amantes de la lectura.",
         "precio": 8000,
         "imagen": [
-
+          "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/refs/heads/main/img/11-1/bee1.jpeg",
+          "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/refs/heads/main/img/11-1/bee2.jpeg"
         ],
         "categoria": "Chucherias",
         "cantidad": 1,
@@ -1462,6 +1465,8 @@
         "descripcion": "Abrelibros artesanal, con diseño en relieve. Ideal para los amantes de la lectura.",
         "precio": 8000,
         "imagen": [
+          "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/refs/heads/main/img/11-1/flower1.jpeg",
+          "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/refs/heads/main/img/11-1/flower2.jpeg"
         ],
         "categoria": "Chucherias",
         "cantidad": 1,
@@ -1530,7 +1535,7 @@
         "imagen": [
             "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/refs/heads/main/img/7-9-25/porta.jpeg"
         ],
-        "categoria": "Portasahumerios",
+        "categoria": "Chucherias",
         "cantidad": 1,
         "estado": true,
         "destacado": false
@@ -1676,6 +1681,62 @@
       "precio": 14000,
       "imagen": [
         "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/refs/heads/main/img/4-1-26/colador.jpg"
+      ],
+      "categoria": "Utilitarios",
+      "cantidad": 1,
+      "estado": true,
+      "destacado": false
+    },
+    {
+      "id": 121,
+      "nombre": "Porta Cristales",
+      "descripcion": "Colgante tejido a mano para que guardes tus cristales o gemas y puedas llevarlas siempre con vos, para los turmalinalovers.",
+      "precio": 4000,
+      "imagen": [
+        "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/refs/heads/main/img/11-1/gemas.jpeg"
+      ],
+      "categoria": "Textiles",
+      "cantidad": 1,
+      "estado": true,
+      "destacado": false
+    },
+    {
+      "id": 122,
+      "nombre": "Alfiletero Vintage",
+      "descripcion": "Tazas Vintage convertidas en alfileteros. Incluye todo lo que se ve en la imagen (Alfileres, dedal, etc).",
+      "precio": 7500,
+      "imagen": [
+        "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/refs/heads/main/img/11-1/alfil1.jpeg",
+        "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/refs/heads/main/img/11-1/alfil2.jpeg"
+      ],
+      "categoria": "Textiles",
+      "cantidad": 1,
+      "estado": true,
+      "destacado": false
+    },
+    {
+      "id": 123,
+      "nombre": "Postales",
+      "descripcion": "Postales pintadas a mano con acuarela.",
+      "precio": 500,
+      "imagen": [
+        "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/refs/heads/main/img/11-1/postal2.jpeg",
+        "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/refs/heads/main/img/11-1/postal1.jpeg",
+        "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/refs/heads/main/img/11-1/postal3.jpeg",
+        "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/refs/heads/main/img/11-1/postal4.jpeg"
+      ],
+      "categoria": "Chucherias",
+      "cantidad": 1,
+      "estado": true,
+      "destacado": false
+    },
+    {
+      "id": 124,
+      "nombre": "Postal Poema",
+      "descripcion": "Poesia de Maria Gabriela Abeal.",
+      "precio": 500,
+      "imagen": [
+        "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/refs/heads/main/img/11-1/postal5.jpeg"
       ],
       "categoria": "Chucherias",
       "cantidad": 1,
