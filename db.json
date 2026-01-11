@@ -321,7 +321,7 @@
       "imagen": [
         "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/gift.jpeg"
       ],
-      "categoria": "Merchandising",
+      "categoria": "Promociones",
       "cantidad": 1,
       "estado": true,
       "destacado": true
@@ -855,10 +855,9 @@
       "id": 60,
       "nombre": "Pins",
       "descripcion": "Pins de cerámica, perfectos para decorar tu ropa.",
-      "precio": 3000,
+      "precio": 3500,
       "imagen": [
-        "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/7-9-25/pin1.jpeg",
-        "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/main/img/7-9-25/pin2.jpeg"
+
       ],
       "categoria": "Chucherias",
       "cantidad": 6,
@@ -1361,7 +1360,7 @@
         ],
         "categoria": "By Gabi Abeal",
         "cantidad": 1,
-        "estado": true,
+        "estado": false,
         "destacado": false
     },
     {
@@ -1392,11 +1391,13 @@
     },
     {
         "id": 99,
-        "nombre": "Body Splash 'NagChampa'",
-        "descripcion": "Body Splash artesanal, con aroma a NagChampa. Ideal para usar en cualquier momento del día.",
+        "nombre": "Body Splash",
+        "descripcion": "Body Splash artesanal, en aromas Flores Blancas y NagChampa.",
         "precio": 4500,
         "imagen": [
-            "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/refs/heads/main/img/7-9-25/body2.jpeg"
+            "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/refs/heads/main/img/7-9-25/body2.jpeg",
+            "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/refs/heads/main/img/7-9-25/body.jpeg"
+
         ],
         "categoria": "By Gabi Abeal",
         "cantidad": 1,
@@ -1422,7 +1423,7 @@
         "descripcion": "Abrelibros artesanal, con diseño de abeja. Ideal para los amantes de la lectura.",
         "precio": 8000,
         "imagen": [
-            "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/refs/heads/main/img/7-9-25/abeja.jpeg"
+
         ],
         "categoria": "Chucherias",
         "cantidad": 1,
@@ -1439,7 +1440,7 @@
         ],
         "categoria": "Chucherias",
         "cantidad": 1,
-        "estado": true,
+        "estado": false,
         "destacado": false
     },
     {
@@ -1452,7 +1453,7 @@
         ],
         "categoria": "Chucherias",
         "cantidad": 1,
-        "estado": true,
+        "estado": false,
         "destacado": false
     },
     {
@@ -1461,7 +1462,6 @@
         "descripcion": "Abrelibros artesanal, con diseño en relieve. Ideal para los amantes de la lectura.",
         "precio": 8000,
         "imagen": [
-            "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/refs/heads/main/img/7-9-25/flower.jpeg"
         ],
         "categoria": "Chucherias",
         "cantidad": 1,
@@ -1636,7 +1636,7 @@
       "imagen": [
         "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/refs/heads/main/img/4-1-26/box.jpeg"
       ],
-      "categoria": "Chucherias",
+      "categoria": "Promociones",
       "cantidad": 1,
       "estado": true,
       "destacado": false
