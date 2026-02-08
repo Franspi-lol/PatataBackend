@@ -1749,7 +1749,8 @@
       "descripcion": "Listas con Iman para que pegues en tu heladera y no pierdas de vista tus turnos, tus citas o las cosas pendientes que tenés que hacer. Lista tamaño grande 14000, tamaño chico 12000.",
       "precio": 14000,
       "imagen": [
-
+        "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/refs/heads/main/img/8-2/lista1.jpeg",
+        "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/refs/heads/main/img/8-2/lista2.jpeg"
       ],
       "categoria": "Utilitarios",
       "cantidad": 1,
@@ -1762,7 +1763,7 @@
       "descripcion": "Perfumina deliciosa para aromatizar tus ambientes, preguntar por los aromas disponibles",
       "precio": 6000,
       "imagen": [
-
+        "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/refs/heads/main/img/8-2/perfumina.jpeg"
       ],
       "categoria": "By Gabi Abeal",
       "cantidad": 1,
