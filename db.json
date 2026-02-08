@@ -1769,6 +1769,20 @@
       "cantidad": 1,
       "estado": true,
       "destacado": false
+    },
+    {
+      "id": 127,
+      "nombre": "Tarrito Royal",
+      "descripcion": "Frasquito para guardar tus condimentos, polvo de hornear, joyas imitando el clásico frasquito royal",
+      "precio": 25000,
+      "imagen": [
+        "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/refs/heads/main/img/8-2/royal1.jpeg",
+        "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/refs/heads/main/img/8-2/royal2.jpeg"
+      ],
+      "categoria": "Chucherias",
+      "cantidad": 1,
+      "estado": true,
+      "destacado": false
     }
   ]
 }
