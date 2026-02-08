@@ -1742,6 +1742,32 @@
       "cantidad": 1,
       "estado": true,
       "destacado": false
+    },
+    {
+      "id": 125,
+      "nombre": "Listas Organizadoras",
+      "descripcion": "Listas con Iman para que pegues en tu heladera y no pierdas de vista tus turnos, tus citas o las cosas pendientes que tenés que hacer. Lista tamaño grande 14000, tamaño chico 12000.",
+      "precio": 14000,
+      "imagen": [
+
+      ],
+      "categoria": "Utilitarios",
+      "cantidad": 1,
+      "estado": true,
+      "destacado": false
+    },
+    {
+      "id": 126,
+      "nombre": "Perfumina",
+      "descripcion": "Perfumina deliciosa para aromatizar tus ambientes, preguntar por los aromas disponibles",
+      "precio": 6000,
+      "imagen": [
+
+      ],
+      "categoria": "By Gabi Abeal",
+      "cantidad": 1,
+      "estado": true,
+      "destacado": false
     }
   ]
 }
