@@ -1318,7 +1318,7 @@
         ],
         "categoria": "Textiles",
         "cantidad": 2,
-        "estado": true,
+        "estado": false,
         "destacado": false
     },
     {
@@ -1368,8 +1368,8 @@
     {
         "id": 97,
         "nombre": "Agua Florida",
-        "descripcion": "Agua Florida artesanal, con aroma cítrico y floral. Ideal para usar en vos. Mediana 5000, Grande 8000",
-        "precio": 5000,
+        "descripcion": "Agua Florida artesanal, con aroma cítrico y floral. Ideal para usar en vos. Mediana 6000, Grande 9000",
+        "precio": 9000,
         "imagen": [
             "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/refs/heads/main/img/7-9-25/agua.jpeg"
         ],
@@ -1382,7 +1382,7 @@
         "id": 98,
         "nombre": "Palo Santo",
         "descripcion": "Palo Santo peruano 100% natural, ideal para limpiar energías negativas y atraer buenas vibras. Viene en bolsas de 30gr.",
-        "precio": 3000,
+        "precio": 3500,
         "imagen": [
             "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/refs/heads/main/img/7-9-25/palo.jpeg"
         ],
@@ -1395,7 +1395,7 @@
         "id": 99,
         "nombre": "Body Splash",
         "descripcion": "Body Splash artesanal, en aromas Flores Blancas y NagChampa.",
-        "precio": 4500,
+        "precio": 5000,
         "imagen": [
             "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/refs/heads/main/img/7-9-25/body2.jpeg",
             "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/refs/heads/main/img/7-9-25/body.jpeg"
@@ -1423,7 +1423,7 @@
         "id": 101,
         "nombre": "Abrelibros 'Bee'",
         "descripcion": "Abrelibros artesanal, con diseño de abeja. Ideal para los amantes de la lectura.",
-        "precio": 8000,
+        "precio": 8500,
         "imagen": [
           "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/refs/heads/main/img/11-1/bee1.jpeg",
           "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/refs/heads/main/img/11-1/bee2.jpeg"
@@ -1463,7 +1463,7 @@
         "id": 104,
         "nombre": "Abrelibros 'Flower'",
         "descripcion": "Abrelibros artesanal, con diseño en relieve. Ideal para los amantes de la lectura.",
-        "precio": 8000,
+        "precio": 8500,
         "imagen": [
           "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/refs/heads/main/img/11-1/flower1.jpeg",
           "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/refs/heads/main/img/11-1/flower2.jpeg"
@@ -1544,7 +1544,7 @@
       "id": 110,
       "nombre": "Portavelas Flor",
       "descripcion": "Portavelas para colgar en la pared (con clavo) Disponible en color azul, rojo y verde petroleo",
-      "precio": 12000,
+      "precio": 13000,
       "imagen": [
         "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/refs/heads/main/img/4-1-26/portavelasFlor1.jpeg",
         "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/refs/heads/main/img/4-1-26/portavelasFlor2.jpeg",
@@ -1559,7 +1559,7 @@
       "id": 111,
       "nombre": "Apoya cucharon tomate",
       "descripcion": "Pieza de ceramica en forma de tomate para que apoyes tus utensillos de cocina sucios y no ensuciar tu mesada",
-      "precio": 12000,
+      "precio": 15000,
       "imagen": [
         "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/refs/heads/main/img/4-1-26/tomato.jpeg"
       ],
@@ -1585,7 +1585,7 @@
       "id": 113,
       "nombre": "Candelabro Sol",
       "descripcion": "Candelabro en forma de sol que iluminen tus noches",
-      "precio": 12000,
+      "precio": 13000,
       "imagen": [
         "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/refs/heads/main/img/4-1-26/sol.jpeg"
       ],
@@ -1598,7 +1598,7 @@
       "id": 114,
       "nombre": "Altar Sol",
       "descripcion": "Altar de pared para velita de noche en forma de sol. Color naranja y detalles en esmalte amarillo",
-      "precio": 15000,
+      "precio": 17000,
       "imagen": [
         "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/refs/heads/main/img/4-1-26/altarSol.jpeg"
       ],
@@ -1650,7 +1650,7 @@
       "id": 118,
       "nombre": "Maceta Cuadrille",
       "descripcion": "Maceta tamaño grande, viene con desagote. Color verde",
-      "precio": 18000,
+      "precio": 19000,
       "imagen": [
         "https://raw.githubusercontent.com/Franspi-lol/PatataBackend/refs/heads/main/img/4-1-26/maceta.jpeg"
       ],
